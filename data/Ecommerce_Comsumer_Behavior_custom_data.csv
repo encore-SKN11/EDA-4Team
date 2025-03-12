@@ -1,0 +1,902 @@
+Purchase_Amount,Age,Gender,Income_Level,Marital_Status,Education_Level,Occupation,Purchase_Channel,Time_to_Decision
+$333.80 ,22,Female,Middle,Married,Bachelor's,Middle,Mixed,2
+$222.22 ,49,Male,High,Married,High School,High,In-Store,6
+$426.22 ,24,Female,Middle,Single,Master's,High,Mixed,3
+$101.31 ,29,Female,Middle,Single,Master's,Middle,Mixed,10
+$211.70 ,33,Female,Middle,Widowed,High School,Middle,Mixed,4
+$487.95 ,45,Male,Middle,Married,Master's,High,Mixed,7
+$486.40 ,21,Female,Middle,Divorced,High School,Middle,Online,13
+$218.06 ,39,Male,Middle,Single,High School,Middle,Online,13
+$201.96 ,24,Female,High,Divorced,Master's,Middle,In-Store,7
+$389.70 ,33,Male,Middle,Divorced,Bachelor's,Middle,In-Store,12
+$238.93 ,38,Female,High,Widowed,Bachelor's,Middle,Online,1
+$61.22 ,34,Male,Middle,Single,Bachelor's,High,In-Store,5
+$79.81 ,32,Male,High,Married,High School,Middle,Mixed,14
+$58.51 ,30,Female,High,Widowed,High School,High,Online,14
+$109.29 ,40,Male,High,Divorced,Master's,High,Online,11
+$356.45 ,37,Male,High,Single,Bachelor's,High,Mixed,8
+$236.99 ,38,Female,Middle,Divorced,Bachelor's,High,Mixed,13
+$454.39 ,36,Male,Middle,Widowed,Bachelor's,High,In-Store,3
+$490.75 ,29,Female,High,Widowed,Bachelor's,Middle,In-Store,13
+$463.07 ,21,Female,Middle,Widowed,High School,Middle,Mixed,11
+$56.74 ,36,Female,High,Married,Master's,High,Online,7
+$371.32 ,38,Male,High,Divorced,Bachelor's,Middle,In-Store,6
+$461.00 ,37,Female,Middle,Single,Bachelor's,Middle,Online,9
+$253.37 ,33,Female,High,Married,Bachelor's,High,In-Store,8
+$136.53 ,37,Male,High,Widowed,High School,High,Mixed,10
+$489.05 ,31,Female,Middle,Single,Master's,Middle,Online,7
+$81.91 ,50,Male,High,Single,Master's,High,In-Store,2
+$135.80 ,50,Male,Middle,Married,Bachelor's,Middle,In-Store,9
+$382.24 ,45,Female,Middle,Widowed,High School,Middle,In-Store,3
+$354.70 ,33,Female,High,Married,Bachelor's,Middle,Online,12
+$433.82 ,24,Male,High,Divorced,Bachelor's,High,Online,10
+$454.38 ,48,Male,High,Widowed,High School,Middle,Online,7
+$138.88 ,25,Male,Middle,Married,High School,High,In-Store,4
+$52.34 ,30,Female,High,Single,Bachelor's,High,In-Store,13
+$338.20 ,34,Male,Middle,Single,Bachelor's,High,Online,7
+$263.15 ,21,Female,Middle,Widowed,High School,Middle,In-Store,10
+$371.58 ,36,Female,Middle,Married,Master's,Middle,Mixed,11
+$353.40 ,30,Male,Middle,Widowed,Bachelor's,Middle,Online,3
+$329.41 ,46,Female,Middle,Divorced,High School,High,In-Store,2
+$54.46 ,46,Female,Middle,Married,Master's,Middle,Online,1
+$257.12 ,43,Male,High,Widowed,Master's,Middle,Online,11
+$293.04 ,43,Male,High,Divorced,Bachelor's,Middle,In-Store,6
+$110.40 ,34,Male,High,Single,Master's,High,Mixed,12
+$76.27 ,42,Female,Middle,Married,Master's,High,In-Store,10
+$392.08 ,40,Female,High,Widowed,Bachelor's,Middle,Online,6
+$51.22 ,25,Female,High,Married,Bachelor's,High,Online,5
+$227.57 ,38,Male,Middle,Divorced,Bachelor's,High,Online,14
+$378.87 ,46,Female,Middle,Widowed,Bachelor's,Middle,Online,5
+$423.92 ,24,Female,Middle,Widowed,High School,High,Mixed,8
+$299.31 ,37,Female,Middle,Single,Bachelor's,Middle,Mixed,3
+$169.28 ,42,Male,Middle,Widowed,Master's,Middle,Mixed,6
+$449.13 ,29,Male,Middle,Widowed,High School,High,In-Store,14
+$427.48 ,35,Female,High,Married,Master's,High,Online,11
+$171.61 ,27,Female,Middle,Single,High School,High,Online,8
+$240.28 ,40,Female,High,Married,Bachelor's,High,Online,4
+$310.17 ,34,Female,High,Single,High School,High,In-Store,13
+$166.00 ,25,Female,Middle,Married,Bachelor's,Middle,Online,5
+$362.01 ,38,Male,High,Divorced,Bachelor's,High,In-Store,1
+$395.97 ,32,Female,Middle,Married,Bachelor's,High,In-Store,1
+$474.99 ,50,Female,Middle,Widowed,High School,Middle,Online,5
+$286.43 ,35,Female,Middle,Widowed,High School,Middle,Mixed,14
+$414.83 ,23,Male,Middle,Divorced,Master's,Middle,Mixed,8
+$391.38 ,34,Female,High,Widowed,Master's,High,In-Store,8
+$368.40 ,48,Male,Middle,Divorced,Bachelor's,High,Online,13
+$424.39 ,37,Female,Middle,Divorced,Bachelor's,Middle,Mixed,13
+$197.12 ,47,Male,High,Married,High School,High,In-Store,10
+$454.57 ,45,Male,High,Single,Bachelor's,High,Mixed,1
+$298.38 ,37,Male,Middle,Divorced,High School,High,Mixed,3
+$111.70 ,36,Male,High,Divorced,High School,High,Online,7
+$373.69 ,34,Male,Middle,Married,Bachelor's,Middle,Online,14
+$354.87 ,37,Male,High,Widowed,Master's,Middle,In-Store,12
+$214.48 ,18,Female,Middle,Widowed,Bachelor's,High,Online,2
+$399.58 ,20,Male,High,Divorced,Bachelor's,Middle,In-Store,7
+$380.99 ,27,Female,High,Widowed,High School,Middle,Mixed,8
+$79.00 ,36,Male,Middle,Married,High School,High,Online,7
+$113.88 ,46,Female,Middle,Married,Bachelor's,Middle,Online,9
+$121.57 ,26,Male,Middle,Married,High School,Middle,Mixed,13
+$215.54 ,21,Female,High,Divorced,High School,Middle,Online,10
+$87.03 ,43,Male,High,Married,Bachelor's,High,Mixed,7
+$111.75 ,19,Male,High,Divorced,High School,High,In-Store,8
+$136.20 ,41,Female,High,Widowed,Master's,High,Mixed,9
+$439.31 ,48,Male,Middle,Married,High School,Middle,In-Store,7
+$194.93 ,19,Female,Middle,Married,Bachelor's,Middle,Online,5
+$377.67 ,29,Male,Middle,Widowed,Master's,High,Online,14
+$366.77 ,20,Female,Middle,Married,Bachelor's,Middle,Mixed,1
+$178.04 ,31,Female,High,Divorced,Master's,Middle,In-Store,12
+$461.09 ,23,Female,High,Divorced,High School,High,Online,8
+$211.16 ,19,Female,High,Single,High School,Middle,In-Store,2
+$421.95 ,23,Female,Middle,Widowed,Bachelor's,High,Mixed,7
+$378.59 ,49,Female,Middle,Divorced,Bachelor's,High,Online,14
+$444.87 ,42,Male,Middle,Divorced,Bachelor's,High,Online,7
+$160.82 ,18,Female,High,Widowed,Bachelor's,High,In-Store,3
+$494.18 ,35,Male,High,Single,Master's,Middle,Mixed,14
+$177.05 ,22,Male,Middle,Single,Bachelor's,Middle,Online,1
+$450.66 ,28,Female,Middle,Married,Master's,High,In-Store,9
+$164.27 ,42,Female,High,Married,Bachelor's,Middle,Online,14
+$346.36 ,37,Female,Middle,Widowed,Master's,High,Mixed,14
+$377.77 ,33,Female,Middle,Widowed,High School,High,Mixed,3
+$163.41 ,46,Female,Middle,Widowed,High School,Middle,In-Store,4
+$467.58 ,30,Female,Middle,Divorced,Master's,Middle,Mixed,7
+$247.51 ,39,Female,Middle,Widowed,Bachelor's,High,Mixed,2
+$365.10 ,25,Female,Middle,Single,High School,High,In-Store,1
+$485.42 ,38,Female,High,Single,Master's,Middle,Online,4
+$250.54 ,41,Female,Middle,Widowed,Bachelor's,High,In-Store,3
+$163.14 ,49,Female,Middle,Divorced,High School,High,Mixed,1
+$162.31 ,21,Male,High,Divorced,Bachelor's,Middle,In-Store,11
+$328.21 ,37,Male,Middle,Widowed,Master's,High,Mixed,12
+$268.59 ,30,Female,High,Married,Master's,High,Online,3
+$257.37 ,18,Female,High,Divorced,High School,High,Online,13
+$205.49 ,41,Female,Middle,Single,High School,High,In-Store,11
+$407.91 ,40,Male,High,Divorced,Master's,High,In-Store,14
+$254.73 ,33,Female,High,Divorced,Bachelor's,High,Online,3
+$397.78 ,30,Female,Middle,Divorced,Bachelor's,High,Online,11
+$305.29 ,33,Female,High,Married,Bachelor's,High,Online,10
+$257.86 ,45,Male,Middle,Divorced,High School,High,Online,1
+$393.45 ,42,Female,High,Single,High School,Middle,In-Store,12
+$58.49 ,30,Male,High,Married,Bachelor's,Middle,Online,7
+$226.48 ,42,Male,Middle,Single,High School,Middle,In-Store,11
+$469.22 ,26,Female,High,Single,Master's,Middle,In-Store,7
+$335.32 ,42,Female,High,Divorced,High School,High,Mixed,10
+$184.74 ,31,Male,High,Divorced,High School,Middle,In-Store,10
+$427.10 ,49,Male,High,Married,High School,Middle,Mixed,5
+$326.82 ,34,Male,High,Widowed,High School,High,Mixed,4
+$98.97 ,41,Male,High,Widowed,High School,Middle,In-Store,11
+$77.65 ,33,Male,High,Single,High School,High,Online,1
+$85.61 ,47,Female,Middle,Widowed,Master's,High,Online,5
+$164.79 ,47,Male,High,Widowed,High School,High,In-Store,1
+$235.46 ,29,Female,High,Widowed,High School,High,In-Store,2
+$245.14 ,36,Female,High,Widowed,Master's,Middle,Online,3
+$439.91 ,43,Male,High,Divorced,Bachelor's,Middle,Online,10
+$309.22 ,31,Male,High,Widowed,High School,High,Mixed,10
+$146.59 ,27,Male,Middle,Widowed,Master's,Middle,Mixed,3
+$298.73 ,48,Male,Middle,Single,High School,Middle,Online,4
+$371.19 ,41,Male,Middle,Married,Bachelor's,High,Mixed,1
+$193.76 ,33,Female,Middle,Married,Master's,High,Mixed,12
+$424.27 ,43,Male,Middle,Divorced,Master's,High,Online,12
+$496.11 ,38,Male,High,Single,Bachelor's,High,Mixed,12
+$341.91 ,41,Male,High,Widowed,Bachelor's,Middle,Online,7
+$127.66 ,40,Male,High,Married,Master's,High,Online,7
+$342.99 ,35,Male,High,Widowed,Bachelor's,High,In-Store,6
+$308.54 ,22,Male,Middle,Divorced,Master's,High,Mixed,7
+$124.17 ,49,Male,High,Single,Master's,Middle,Mixed,6
+$78.00 ,27,Female,Middle,Married,Master's,Middle,Online,11
+$393.03 ,27,Female,High,Married,Bachelor's,Middle,Mixed,7
+$102.09 ,37,Female,High,Single,Master's,Middle,Mixed,1
+$426.21 ,32,Male,Middle,Married,Bachelor's,High,Mixed,2
+$140.31 ,42,Male,Middle,Widowed,Master's,High,Online,8
+$413.70 ,18,Female,High,Widowed,Master's,Middle,Mixed,6
+$348.63 ,49,Male,High,Widowed,Master's,Middle,Online,6
+$91.27 ,23,Female,Middle,Widowed,High School,Middle,In-Store,13
+$359.94 ,29,Female,High,Divorced,Bachelor's,High,Mixed,9
+$138.20 ,25,Male,Middle,Divorced,High School,Middle,In-Store,12
+$249.24 ,32,Female,Middle,Widowed,Bachelor's,Middle,In-Store,7
+$129.10 ,45,Male,High,Divorced,High School,High,Mixed,7
+$112.69 ,45,Female,High,Married,Master's,High,In-Store,1
+$267.85 ,46,Male,Middle,Widowed,Bachelor's,High,Online,7
+$205.36 ,24,Male,Middle,Divorced,High School,Middle,Online,5
+$256.63 ,35,Male,High,Widowed,High School,Middle,In-Store,10
+$409.98 ,50,Female,High,Divorced,High School,Middle,Mixed,8
+$291.60 ,34,Male,Middle,Widowed,High School,High,In-Store,3
+$101.70 ,50,Female,Middle,Single,Bachelor's,Middle,Online,4
+$369.73 ,50,Female,Middle,Single,High School,Middle,Online,12
+$71.00 ,46,Male,Middle,Single,Bachelor's,High,Online,13
+$280.05 ,47,Male,Middle,Single,Master's,Middle,In-Store,11
+$54.71 ,35,Male,High,Widowed,Master's,Middle,Mixed,3
+$119.51 ,27,Male,High,Widowed,Bachelor's,Middle,Mixed,1
+$57.50 ,37,Female,High,Single,Master's,High,Online,13
+$225.05 ,38,Female,High,Married,Bachelor's,High,Mixed,10
+$441.15 ,41,Female,High,Divorced,High School,High,Online,8
+$481.21 ,48,Male,Middle,Divorced,High School,Middle,Mixed,11
+$102.96 ,48,Female,High,Married,Bachelor's,Middle,Mixed,4
+$331.57 ,45,Female,High,Divorced,Bachelor's,High,Mixed,14
+$143.52 ,50,Female,Middle,Single,Master's,High,In-Store,12
+$276.48 ,39,Male,Middle,Widowed,Bachelor's,Middle,Mixed,7
+$352.87 ,20,Male,High,Widowed,High School,High,In-Store,12
+$228.68 ,48,Male,Middle,Married,Master's,Middle,Mixed,4
+$301.39 ,31,Female,Middle,Divorced,Master's,High,Online,11
+$473.50 ,25,Female,Middle,Married,Bachelor's,High,Mixed,10
+$171.72 ,18,Male,Middle,Divorced,Bachelor's,High,Online,12
+$467.50 ,31,Male,Middle,Widowed,High School,Middle,In-Store,6
+$150.33 ,23,Male,Middle,Single,High School,Middle,In-Store,6
+$98.63 ,29,Male,High,Married,Bachelor's,High,Online,6
+$193.30 ,21,Female,Middle,Divorced,Master's,Middle,Mixed,12
+$145.02 ,49,Female,Middle,Single,High School,Middle,In-Store,9
+$294.99 ,30,Female,Middle,Divorced,Master's,Middle,Online,5
+$432.42 ,50,Female,Middle,Widowed,High School,Middle,In-Store,13
+$227.58 ,35,Female,Middle,Single,Bachelor's,High,Mixed,6
+$160.89 ,36,Male,Middle,Single,High School,High,Online,13
+$139.10 ,24,Female,Middle,Married,Master's,High,Online,8
+$64.49 ,45,Female,Middle,Single,Master's,High,Online,7
+$80.17 ,44,Male,Middle,Widowed,High School,Middle,Online,6
+$277.52 ,28,Male,High,Married,Master's,High,In-Store,11
+$53.67 ,40,Male,High,Widowed,Master's,Middle,Online,11
+$323.39 ,49,Female,Middle,Widowed,Bachelor's,High,In-Store,11
+$98.02 ,50,Female,High,Single,Bachelor's,High,In-Store,10
+$231.26 ,24,Male,High,Divorced,Bachelor's,High,In-Store,10
+$382.49 ,26,Male,High,Single,Master's,Middle,In-Store,1
+$255.42 ,28,Male,Middle,Divorced,Master's,High,Mixed,11
+$423.23 ,48,Female,Middle,Single,High School,High,In-Store,6
+$276.08 ,47,Male,Middle,Single,High School,High,Mixed,10
+$333.56 ,25,Male,Middle,Widowed,Bachelor's,Middle,Mixed,14
+$129.82 ,39,Male,High,Divorced,Bachelor's,Middle,Mixed,8
+$278.78 ,41,Female,High,Widowed,High School,High,Mixed,2
+$112.55 ,37,Male,Middle,Married,Bachelor's,High,In-Store,2
+$142.02 ,50,Female,Middle,Divorced,Bachelor's,High,In-Store,3
+$481.84 ,33,Female,High,Widowed,High School,High,In-Store,9
+$56.85 ,25,Male,Middle,Divorced,High School,Middle,Online,14
+$373.01 ,39,Male,High,Widowed,High School,High,In-Store,8
+$220.77 ,41,Male,Middle,Single,Master's,Middle,Online,11
+$291.09 ,27,Male,Middle,Married,Master's,High,Online,1
+$408.51 ,37,Male,Middle,Widowed,Bachelor's,Middle,Online,1
+$103.40 ,21,Male,Middle,Married,High School,High,In-Store,9
+$67.92 ,47,Male,Middle,Single,High School,High,In-Store,10
+$276.77 ,30,Male,Middle,Widowed,Bachelor's,Middle,Mixed,4
+$190.25 ,49,Male,Middle,Single,High School,Middle,Mixed,13
+$203.49 ,28,Female,Middle,Married,Master's,Middle,In-Store,11
+$263.50 ,24,Male,Middle,Single,High School,High,Mixed,1
+$247.30 ,40,Female,High,Divorced,Bachelor's,Middle,In-Store,11
+$50.71 ,18,Male,High,Married,Bachelor's,Middle,Online,8
+$131.85 ,42,Male,High,Married,High School,Middle,Mixed,6
+$459.39 ,19,Male,High,Married,Master's,High,Mixed,14
+$383.33 ,36,Female,High,Divorced,High School,Middle,Online,12
+$212.08 ,26,Female,High,Widowed,Bachelor's,High,In-Store,13
+$370.73 ,35,Female,High,Married,Master's,High,Online,7
+$319.66 ,39,Male,High,Divorced,Master's,Middle,Mixed,3
+$373.05 ,44,Female,Middle,Widowed,Bachelor's,High,In-Store,7
+$393.78 ,19,Female,High,Married,Bachelor's,High,Online,14
+$245.04 ,27,Female,High,Widowed,Master's,High,Online,10
+$111.27 ,26,Female,High,Divorced,Master's,Middle,Online,12
+$93.29 ,26,Female,High,Single,Bachelor's,Middle,Online,9
+$156.50 ,27,Female,High,Married,High School,Middle,Mixed,14
+$290.11 ,37,Male,Middle,Single,Master's,Middle,Mixed,14
+$355.28 ,23,Female,Middle,Single,Bachelor's,Middle,Mixed,5
+$170.35 ,21,Female,Middle,Widowed,Master's,Middle,In-Store,1
+$123.70 ,36,Female,High,Single,Master's,Middle,Online,2
+$201.60 ,21,Female,Middle,Single,Master's,High,In-Store,14
+$116.14 ,27,Female,Middle,Single,Master's,High,Mixed,14
+$483.38 ,29,Female,Middle,Single,Master's,High,Online,8
+$418.62 ,24,Male,Middle,Single,High School,Middle,In-Store,11
+$139.83 ,33,Female,Middle,Divorced,Bachelor's,Middle,Online,10
+$54.17 ,38,Female,High,Married,Master's,Middle,Mixed,7
+$437.59 ,47,Male,High,Divorced,Master's,High,In-Store,9
+$113.57 ,32,Male,Middle,Widowed,Bachelor's,High,Online,8
+$339.12 ,23,Female,High,Divorced,High School,High,In-Store,1
+$68.02 ,20,Female,Middle,Widowed,High School,Middle,Online,6
+$199.44 ,27,Male,High,Single,Master's,Middle,Online,1
+$250.73 ,47,Male,High,Divorced,High School,Middle,Online,10
+$372.49 ,34,Male,Middle,Single,High School,Middle,Online,7
+$186.85 ,41,Male,High,Widowed,High School,High,Online,12
+$73.32 ,26,Male,High,Widowed,Master's,Middle,In-Store,14
+$214.59 ,49,Male,Middle,Widowed,Bachelor's,Middle,Online,9
+$467.32 ,47,Female,Middle,Widowed,High School,Middle,In-Store,11
+$475.65 ,18,Male,Middle,Married,Master's,Middle,In-Store,14
+$161.38 ,48,Female,Middle,Widowed,Master's,High,Mixed,10
+$249.78 ,19,Male,Middle,Single,Bachelor's,Middle,In-Store,11
+$149.88 ,39,Female,Middle,Divorced,High School,High,Mixed,4
+$347.09 ,48,Female,High,Divorced,Master's,Middle,In-Store,7
+$345.49 ,43,Female,High,Widowed,Master's,High,Mixed,3
+$297.24 ,31,Female,High,Divorced,Bachelor's,High,Mixed,7
+$494.34 ,28,Female,Middle,Divorced,Bachelor's,High,Online,3
+$407.88 ,38,Male,Middle,Single,Master's,High,In-Store,14
+$448.68 ,30,Male,Middle,Widowed,Bachelor's,Middle,In-Store,8
+$255.96 ,40,Female,High,Widowed,Bachelor's,High,Online,13
+$146.07 ,45,Male,Middle,Married,High School,High,In-Store,1
+$311.90 ,44,Female,High,Single,High School,Middle,In-Store,2
+$301.60 ,38,Female,Middle,Widowed,High School,Middle,Mixed,13
+$239.46 ,42,Male,High,Widowed,Master's,Middle,Mixed,7
+$240.82 ,28,Female,High,Widowed,High School,High,Mixed,8
+$302.07 ,44,Female,Middle,Single,Master's,High,Mixed,13
+$367.99 ,45,Male,Middle,Widowed,Bachelor's,Middle,Online,8
+$359.75 ,46,Female,High,Married,Master's,Middle,In-Store,3
+$204.44 ,28,Female,Middle,Divorced,Bachelor's,High,Mixed,13
+$228.93 ,27,Male,High,Single,Master's,High,Online,11
+$355.31 ,20,Female,High,Single,High School,Middle,Online,12
+$334.67 ,40,Male,High,Married,High School,High,In-Store,13
+$182.72 ,36,Male,Middle,Widowed,Master's,Middle,Online,13
+$260.22 ,43,Male,High,Widowed,High School,Middle,In-Store,13
+$454.93 ,26,Female,High,Single,High School,Middle,Online,11
+$325.42 ,29,Male,Middle,Widowed,Bachelor's,High,In-Store,7
+$351.36 ,34,Female,Middle,Widowed,High School,High,In-Store,7
+$333.63 ,40,Male,High,Single,Bachelor's,Middle,Mixed,14
+$469.90 ,42,Female,High,Married,Bachelor's,Middle,Mixed,7
+$207.52 ,28,Male,High,Married,Bachelor's,High,In-Store,2
+$125.89 ,49,Male,High,Single,Bachelor's,High,In-Store,13
+$170.77 ,46,Female,High,Single,Master's,Middle,Online,4
+$63.91 ,44,Female,High,Divorced,Master's,High,Online,12
+$340.55 ,29,Male,High,Married,High School,Middle,In-Store,1
+$378.14 ,47,Male,Middle,Divorced,Bachelor's,High,Mixed,7
+$235.84 ,37,Female,Middle,Married,Bachelor's,Middle,Mixed,14
+$164.44 ,47,Male,High,Widowed,High School,Middle,In-Store,5
+$455.81 ,24,Male,High,Married,Bachelor's,High,Online,6
+$298.32 ,36,Male,High,Widowed,Master's,High,In-Store,12
+$351.71 ,36,Female,High,Single,Bachelor's,High,In-Store,8
+$393.48 ,49,Male,Middle,Divorced,Bachelor's,Middle,In-Store,3
+$280.20 ,27,Female,High,Single,Bachelor's,High,In-Store,13
+$178.04 ,36,Female,Middle,Single,Master's,Middle,Mixed,11
+$347.99 ,37,Male,High,Married,Master's,Middle,Mixed,6
+$343.81 ,45,Female,Middle,Single,Master's,High,In-Store,3
+$105.29 ,47,Female,Middle,Married,Master's,Middle,In-Store,4
+$483.66 ,32,Male,Middle,Single,High School,Middle,Online,9
+$69.41 ,48,Male,Middle,Married,Bachelor's,Middle,Mixed,5
+$454.15 ,32,Male,Middle,Divorced,High School,High,In-Store,13
+$113.01 ,25,Male,High,Widowed,High School,High,In-Store,4
+$419.13 ,42,Male,Middle,Divorced,Bachelor's,Middle,Mixed,6
+$183.86 ,37,Female,High,Single,Bachelor's,High,Mixed,3
+$427.82 ,43,Female,High,Widowed,Bachelor's,High,In-Store,14
+$282.82 ,29,Female,High,Divorced,Bachelor's,Middle,In-Store,3
+$215.31 ,28,Male,Middle,Divorced,Master's,Middle,Online,7
+$183.66 ,43,Male,Middle,Widowed,Master's,High,Online,6
+$198.73 ,48,Female,High,Divorced,High School,Middle,In-Store,4
+$265.72 ,26,Female,Middle,Married,High School,High,Mixed,13
+$138.35 ,42,Male,Middle,Married,Master's,High,Online,8
+$441.87 ,27,Male,Middle,Divorced,Bachelor's,Middle,Mixed,13
+$178.29 ,40,Female,Middle,Married,Master's,Middle,Mixed,8
+$77.08 ,23,Male,Middle,Widowed,High School,High,Mixed,1
+$266.90 ,46,Male,High,Married,High School,High,Mixed,13
+$269.84 ,38,Female,Middle,Divorced,Bachelor's,High,In-Store,2
+$334.22 ,23,Male,Middle,Married,Master's,High,Online,1
+$474.56 ,40,Female,Middle,Married,High School,High,In-Store,12
+$360.91 ,34,Male,High,Married,Master's,High,Mixed,4
+$373.49 ,44,Female,Middle,Widowed,Bachelor's,High,Online,1
+$462.30 ,32,Female,High,Married,Master's,Middle,Mixed,4
+$332.67 ,42,Female,Middle,Single,Master's,Middle,In-Store,4
+$235.39 ,22,Female,High,Divorced,Master's,Middle,Online,6
+$269.78 ,44,Female,Middle,Married,High School,Middle,In-Store,5
+$498.33 ,29,Male,Middle,Married,Bachelor's,Middle,Online,1
+$182.94 ,30,Female,High,Single,High School,High,Mixed,12
+$121.70 ,19,Female,Middle,Divorced,Master's,High,Mixed,8
+$489.27 ,45,Female,High,Widowed,Master's,Middle,Mixed,3
+$303.93 ,38,Male,Middle,Married,Bachelor's,Middle,Mixed,2
+$302.74 ,24,Female,Middle,Married,Bachelor's,Middle,Mixed,5
+$159.45 ,46,Female,High,Widowed,High School,High,Online,14
+$312.93 ,44,Female,High,Widowed,High School,Middle,In-Store,3
+$65.68 ,38,Male,High,Married,Master's,Middle,In-Store,12
+$61.86 ,44,Male,Middle,Single,Master's,Middle,In-Store,9
+$343.77 ,18,Female,High,Single,Master's,Middle,Mixed,3
+$107.21 ,37,Male,Middle,Divorced,Master's,High,Online,6
+$490.41 ,22,Female,High,Widowed,Master's,Middle,Mixed,3
+$461.34 ,33,Male,High,Married,High School,Middle,In-Store,7
+$338.89 ,20,Female,High,Single,Master's,High,In-Store,3
+$222.63 ,26,Male,High,Married,High School,High,Mixed,6
+$71.95 ,26,Male,High,Married,High School,High,Mixed,13
+$264.52 ,21,Male,High,Divorced,High School,Middle,Online,6
+$414.80 ,43,Male,High,Divorced,High School,High,Mixed,7
+$50.79 ,50,Male,Middle,Single,Bachelor's,High,Mixed,3
+$264.30 ,42,Female,Middle,Married,High School,Middle,In-Store,5
+$122.46 ,29,Male,High,Married,Bachelor's,Middle,Mixed,6
+$238.01 ,20,Male,Middle,Widowed,High School,Middle,In-Store,5
+$245.98 ,38,Male,High,Divorced,Bachelor's,Middle,Mixed,10
+$158.84 ,49,Male,High,Widowed,High School,Middle,Online,5
+$439.24 ,37,Male,Middle,Single,High School,Middle,Mixed,10
+$333.15 ,48,Female,High,Married,Master's,Middle,Mixed,14
+$64.22 ,19,Male,Middle,Divorced,Master's,Middle,Online,10
+$290.53 ,46,Female,High,Single,High School,High,Online,10
+$251.80 ,39,Male,Middle,Divorced,Bachelor's,High,Mixed,11
+$461.71 ,28,Female,Middle,Married,High School,High,Mixed,11
+$288.34 ,50,Female,High,Married,High School,Middle,Mixed,6
+$194.08 ,19,Female,High,Divorced,Bachelor's,High,In-Store,13
+$216.45 ,23,Male,High,Married,Master's,Middle,Mixed,3
+$358.72 ,19,Female,High,Widowed,Bachelor's,High,In-Store,12
+$367.56 ,22,Female,Middle,Widowed,Bachelor's,High,Online,14
+$88.78 ,40,Male,Middle,Divorced,High School,High,Online,13
+$465.85 ,48,Male,Middle,Married,Bachelor's,Middle,Online,7
+$262.61 ,49,Male,Middle,Married,High School,High,In-Store,6
+$425.69 ,42,Female,High,Married,High School,High,In-Store,4
+$446.11 ,41,Female,High,Married,Bachelor's,High,Mixed,11
+$403.57 ,44,Female,High,Divorced,High School,Middle,Online,1
+$442.15 ,42,Female,High,Married,Bachelor's,Middle,Mixed,9
+$78.71 ,49,Female,Middle,Widowed,Bachelor's,High,Online,4
+$491.51 ,45,Female,Middle,Widowed,High School,High,Mixed,7
+$457.39 ,36,Female,Middle,Single,Bachelor's,Middle,In-Store,9
+$178.61 ,38,Female,High,Divorced,High School,High,Online,8
+$492.51 ,44,Male,Middle,Single,High School,Middle,Online,4
+$96.52 ,36,Male,Middle,Divorced,Master's,High,In-Store,11
+$65.45 ,34,Male,High,Married,High School,Middle,In-Store,3
+$255.86 ,23,Male,Middle,Single,High School,Middle,Online,4
+$74.69 ,35,Male,High,Divorced,Bachelor's,High,In-Store,3
+$430.75 ,45,Male,Middle,Widowed,Master's,Middle,Mixed,6
+$370.17 ,38,Male,High,Widowed,Master's,High,Mixed,1
+$384.26 ,25,Male,Middle,Divorced,Master's,High,Mixed,11
+$128.01 ,26,Male,Middle,Married,Master's,Middle,Mixed,10
+$301.40 ,46,Female,High,Married,High School,High,Online,5
+$397.25 ,18,Female,High,Single,High School,High,Mixed,2
+$96.18 ,46,Male,Middle,Divorced,High School,Middle,Mixed,10
+$390.44 ,19,Female,High,Divorced,Bachelor's,High,Mixed,4
+$61.50 ,37,Female,Middle,Single,Bachelor's,Middle,Mixed,8
+$234.44 ,35,Female,Middle,Divorced,High School,High,In-Store,5
+$318.84 ,43,Male,Middle,Single,Master's,Middle,Online,10
+$327.32 ,28,Male,Middle,Single,Master's,High,Mixed,13
+$475.64 ,25,Male,Middle,Divorced,Master's,High,Online,9
+$68.59 ,47,Male,High,Widowed,Master's,Middle,Mixed,5
+$473.96 ,30,Male,Middle,Divorced,Bachelor's,High,In-Store,14
+$472.52 ,24,Female,High,Married,High School,Middle,Online,14
+$335.80 ,27,Female,Middle,Married,Bachelor's,Middle,Mixed,5
+$85.57 ,25,Male,Middle,Single,High School,High,In-Store,9
+$172.50 ,26,Male,Middle,Divorced,Bachelor's,Middle,Online,7
+$212.80 ,18,Female,High,Single,High School,Middle,Mixed,1
+$324.41 ,47,Female,Middle,Married,Bachelor's,High,Mixed,4
+$342.39 ,36,Male,High,Widowed,High School,Middle,In-Store,9
+$446.86 ,23,Female,High,Divorced,Bachelor's,High,In-Store,5
+$463.15 ,49,Male,High,Divorced,Master's,High,Mixed,9
+$122.99 ,27,Female,High,Divorced,Bachelor's,High,In-Store,1
+$322.40 ,43,Male,High,Widowed,Master's,High,Mixed,2
+$73.19 ,19,Female,High,Married,High School,Middle,Mixed,3
+$279.08 ,41,Female,Middle,Married,Master's,High,Online,3
+$478.85 ,29,Female,Middle,Single,High School,Middle,In-Store,4
+$86.39 ,25,Male,High,Widowed,Master's,High,Mixed,7
+$192.35 ,45,Male,High,Widowed,Bachelor's,Middle,Mixed,11
+$235.32 ,36,Female,Middle,Divorced,Bachelor's,High,Online,11
+$212.63 ,21,Female,High,Widowed,High School,High,Online,6
+$246.63 ,47,Female,Middle,Widowed,Master's,High,In-Store,10
+$228.47 ,26,Female,Middle,Widowed,Bachelor's,High,Online,12
+$343.77 ,25,Female,Middle,Single,Master's,High,Online,6
+$327.05 ,34,Male,High,Divorced,Bachelor's,Middle,Mixed,7
+$334.45 ,48,Male,High,Divorced,Master's,Middle,In-Store,6
+$366.16 ,19,Male,High,Single,Bachelor's,Middle,Mixed,4
+$481.78 ,37,Female,High,Widowed,Bachelor's,Middle,In-Store,1
+$131.48 ,23,Female,High,Widowed,Bachelor's,Middle,Mixed,12
+$402.86 ,34,Female,High,Widowed,Master's,High,In-Store,8
+$333.18 ,42,Male,High,Single,Bachelor's,Middle,In-Store,8
+$73.23 ,28,Female,High,Widowed,Master's,Middle,Online,6
+$450.47 ,28,Male,High,Divorced,Master's,Middle,Online,10
+$175.74 ,33,Male,Middle,Single,High School,High,Online,6
+$182.60 ,31,Female,Middle,Single,Master's,High,Online,5
+$497.80 ,20,Female,Middle,Widowed,Bachelor's,High,Online,9
+$171.17 ,32,Male,High,Divorced,High School,High,In-Store,12
+$425.82 ,27,Female,Middle,Single,Bachelor's,High,In-Store,11
+$210.58 ,19,Female,Middle,Widowed,Bachelor's,Middle,In-Store,8
+$199.64 ,50,Male,Middle,Single,High School,Middle,Online,8
+$401.75 ,20,Male,High,Married,Bachelor's,High,Online,6
+$365.88 ,24,Female,Middle,Married,Master's,Middle,Online,7
+$58.29 ,46,Male,Middle,Single,High School,Middle,Mixed,14
+$66.86 ,50,Male,High,Married,Master's,High,Mixed,9
+$279.34 ,29,Female,High,Single,Bachelor's,Middle,Mixed,11
+$360.92 ,44,Female,High,Widowed,Bachelor's,High,Online,8
+$459.30 ,44,Male,High,Single,Master's,High,Online,1
+$426.89 ,43,Female,High,Divorced,Master's,Middle,Mixed,10
+$365.37 ,25,Male,Middle,Divorced,Master's,High,Mixed,7
+$487.25 ,21,Female,Middle,Divorced,Master's,High,Online,1
+$187.22 ,29,Female,Middle,Married,High School,High,Online,4
+$396.82 ,41,Male,High,Divorced,Master's,High,Mixed,9
+$128.74 ,26,Male,High,Widowed,Bachelor's,High,Mixed,1
+$339.63 ,41,Female,Middle,Widowed,Master's,Middle,In-Store,6
+$223.58 ,46,Female,High,Single,Bachelor's,High,Mixed,11
+$175.65 ,43,Male,Middle,Divorced,Bachelor's,Middle,Mixed,8
+$88.40 ,26,Male,Middle,Widowed,Bachelor's,Middle,In-Store,4
+$430.90 ,29,Male,Middle,Widowed,Master's,High,Online,11
+$435.23 ,50,Male,High,Widowed,High School,High,In-Store,13
+$218.65 ,19,Female,High,Divorced,Master's,Middle,Online,4
+$207.66 ,27,Male,High,Widowed,High School,Middle,In-Store,8
+$141.09 ,34,Female,High,Married,High School,High,In-Store,1
+$142.70 ,39,Male,High,Divorced,Bachelor's,Middle,In-Store,11
+$64.09 ,44,Male,High,Divorced,Master's,High,Online,7
+$126.26 ,20,Female,Middle,Married,High School,Middle,Online,13
+$195.05 ,42,Female,Middle,Single,High School,High,In-Store,11
+$432.84 ,22,Female,Middle,Married,Master's,High,Mixed,4
+$404.12 ,30,Male,High,Married,Bachelor's,Middle,In-Store,11
+$438.26 ,39,Male,High,Divorced,Master's,High,In-Store,10
+$233.02 ,19,Female,High,Single,Bachelor's,High,Mixed,8
+$273.41 ,26,Female,Middle,Widowed,Bachelor's,Middle,Online,2
+$338.96 ,21,Female,High,Married,High School,Middle,Online,4
+$75.91 ,37,Male,Middle,Divorced,Master's,High,Mixed,1
+$425.21 ,23,Male,High,Married,High School,High,Online,12
+$268.80 ,46,Male,Middle,Married,Master's,Middle,In-Store,12
+$170.71 ,35,Female,Middle,Divorced,Master's,High,Mixed,7
+$255.10 ,47,Male,Middle,Divorced,High School,Middle,Mixed,14
+$236.44 ,32,Male,High,Widowed,Bachelor's,High,Mixed,6
+$201.69 ,20,Male,Middle,Widowed,Bachelor's,High,Mixed,3
+$390.51 ,37,Female,High,Single,Bachelor's,Middle,Online,6
+$89.60 ,18,Female,Middle,Single,High School,High,In-Store,8
+$166.74 ,27,Male,Middle,Widowed,High School,High,Mixed,1
+$299.28 ,29,Female,High,Married,Bachelor's,Middle,Mixed,3
+$404.57 ,24,Male,High,Widowed,Master's,High,Mixed,14
+$344.81 ,27,Male,High,Single,Bachelor's,High,In-Store,14
+$217.84 ,34,Male,High,Single,Master's,High,Online,11
+$445.34 ,21,Male,Middle,Divorced,Bachelor's,Middle,In-Store,3
+$151.73 ,18,Male,High,Widowed,High School,High,In-Store,11
+$370.54 ,31,Male,Middle,Single,Master's,High,In-Store,7
+$152.87 ,45,Male,High,Married,Master's,High,In-Store,11
+$295.75 ,29,Male,Middle,Single,Master's,Middle,Mixed,8
+$358.11 ,36,Male,High,Widowed,High School,Middle,Mixed,11
+$63.60 ,27,Female,High,Widowed,Master's,High,Mixed,6
+$419.53 ,24,Male,High,Single,High School,Middle,Mixed,6
+$388.82 ,19,Female,Middle,Married,Master's,High,Mixed,6
+$58.32 ,23,Female,Middle,Married,Bachelor's,High,In-Store,8
+$464.76 ,28,Female,High,Divorced,Master's,High,Mixed,3
+$116.92 ,27,Female,High,Divorced,Master's,High,Mixed,14
+$396.76 ,47,Female,High,Divorced,Bachelor's,Middle,Online,8
+$114.03 ,26,Female,High,Single,Master's,High,Mixed,6
+$109.97 ,49,Male,High,Single,Bachelor's,Middle,In-Store,1
+$310.23 ,39,Female,High,Widowed,Master's,High,In-Store,3
+$383.13 ,22,Male,Middle,Divorced,Master's,Middle,Mixed,7
+$434.86 ,25,Male,High,Single,High School,Middle,In-Store,11
+$489.10 ,30,Female,Middle,Married,Bachelor's,Middle,Mixed,13
+$105.87 ,35,Male,High,Divorced,Master's,Middle,Mixed,4
+$163.40 ,45,Male,Middle,Widowed,High School,High,In-Store,7
+$422.92 ,20,Male,High,Single,High School,High,Mixed,6
+$361.48 ,48,Male,Middle,Divorced,High School,High,Online,13
+$270.82 ,23,Male,Middle,Single,Master's,High,In-Store,13
+$372.26 ,49,Female,High,Widowed,High School,High,In-Store,6
+$208.59 ,23,Female,Middle,Widowed,Bachelor's,High,Mixed,1
+$163.22 ,39,Male,Middle,Widowed,High School,High,Online,8
+$364.98 ,45,Male,High,Married,High School,High,In-Store,8
+$449.72 ,19,Female,Middle,Married,Bachelor's,High,Mixed,3
+$241.56 ,27,Male,Middle,Single,Bachelor's,High,Mixed,2
+$437.30 ,24,Male,Middle,Married,Master's,High,Mixed,1
+$277.29 ,22,Male,Middle,Married,Master's,High,Mixed,4
+$445.93 ,46,Male,High,Single,High School,Middle,Online,13
+$242.79 ,37,Female,Middle,Married,Bachelor's,Middle,Mixed,7
+$393.09 ,34,Male,High,Single,Bachelor's,High,Online,1
+$167.61 ,32,Male,Middle,Single,Master's,High,Online,13
+$324.22 ,44,Male,High,Divorced,High School,Middle,In-Store,14
+$159.30 ,24,Female,Middle,Divorced,Bachelor's,Middle,Mixed,2
+$287.18 ,41,Female,Middle,Divorced,Master's,High,In-Store,8
+$162.24 ,32,Male,High,Divorced,High School,Middle,In-Store,7
+$92.97 ,37,Female,High,Divorced,Bachelor's,High,In-Store,7
+$144.39 ,41,Male,Middle,Widowed,High School,Middle,In-Store,12
+$253.37 ,37,Female,High,Single,High School,High,In-Store,6
+$209.62 ,43,Male,Middle,Widowed,High School,High,Mixed,9
+$411.62 ,49,Male,High,Single,High School,Middle,Mixed,12
+$388.01 ,27,Female,High,Single,Bachelor's,High,Online,10
+$50.78 ,41,Male,Middle,Widowed,High School,High,Online,9
+$159.82 ,33,Male,High,Divorced,Bachelor's,Middle,In-Store,10
+$79.43 ,46,Male,Middle,Divorced,Master's,Middle,In-Store,6
+$131.36 ,42,Female,Middle,Married,Bachelor's,Middle,In-Store,3
+$299.75 ,27,Male,Middle,Widowed,High School,Middle,Mixed,7
+$319.38 ,29,Male,High,Divorced,Bachelor's,Middle,In-Store,8
+$476.48 ,38,Male,High,Single,Master's,Middle,Online,3
+$301.01 ,21,Male,Middle,Widowed,Bachelor's,Middle,Mixed,13
+$378.71 ,18,Male,Middle,Single,Bachelor's,Middle,Online,14
+$210.90 ,22,Male,Middle,Married,High School,High,In-Store,12
+$218.26 ,18,Female,Middle,Divorced,High School,High,Mixed,12
+$424.18 ,24,Female,Middle,Widowed,Master's,Middle,Mixed,5
+$430.75 ,28,Male,High,Divorced,High School,Middle,Online,6
+$162.95 ,24,Male,High,Single,Bachelor's,Middle,In-Store,14
+$209.68 ,40,Female,Middle,Married,Master's,High,Online,8
+$97.97 ,50,Male,High,Widowed,Bachelor's,Middle,In-Store,1
+$192.51 ,49,Male,Middle,Widowed,Master's,High,Mixed,9
+$151.81 ,35,Male,Middle,Widowed,Master's,Middle,Online,1
+$239.28 ,25,Female,High,Married,High School,Middle,Online,10
+$306.17 ,40,Female,High,Widowed,High School,High,In-Store,8
+$370.38 ,40,Female,High,Widowed,Master's,High,In-Store,9
+$346.58 ,50,Male,Middle,Single,Bachelor's,Middle,Mixed,7
+$292.64 ,24,Male,Middle,Single,High School,Middle,In-Store,1
+$102.91 ,30,Female,Middle,Married,Bachelor's,High,Mixed,13
+$283.78 ,32,Female,High,Widowed,Bachelor's,Middle,Mixed,10
+$51.44 ,48,Female,High,Widowed,High School,Middle,In-Store,5
+$405.70 ,44,Female,High,Married,Bachelor's,High,Online,14
+$311.74 ,19,Female,High,Widowed,Master's,Middle,Mixed,11
+$293.43 ,39,Male,Middle,Widowed,Bachelor's,High,In-Store,7
+$418.51 ,35,Female,High,Single,Bachelor's,Middle,Online,3
+$85.03 ,39,Male,Middle,Single,Master's,Middle,In-Store,8
+$164.94 ,31,Male,Middle,Married,Master's,High,In-Store,6
+$89.32 ,38,Female,High,Widowed,Bachelor's,Middle,Online,12
+$388.26 ,33,Male,Middle,Married,High School,High,Mixed,5
+$106.69 ,33,Male,Middle,Divorced,Master's,Middle,Online,14
+$61.71 ,49,Male,Middle,Divorced,High School,High,Mixed,12
+$411.81 ,42,Male,High,Single,Bachelor's,Middle,Mixed,1
+$114.93 ,44,Female,Middle,Married,Master's,High,In-Store,4
+$438.42 ,33,Female,High,Divorced,Master's,Middle,Online,4
+$189.97 ,36,Male,Middle,Widowed,Master's,Middle,In-Store,8
+$227.03 ,35,Male,High,Divorced,Master's,Middle,Online,2
+$278.49 ,26,Male,High,Divorced,Bachelor's,Middle,Mixed,8
+$120.56 ,43,Female,High,Widowed,Bachelor's,High,Online,7
+$320.94 ,25,Male,High,Divorced,Bachelor's,Middle,Online,10
+$217.72 ,37,Female,High,Divorced,Master's,Middle,In-Store,14
+$222.61 ,25,Male,High,Widowed,Bachelor's,Middle,Online,3
+$102.73 ,40,Female,Middle,Divorced,High School,Middle,Mixed,14
+$426.87 ,40,Female,Middle,Married,Bachelor's,High,In-Store,3
+$473.28 ,20,Female,Middle,Widowed,High School,Middle,Online,13
+$446.03 ,39,Male,High,Widowed,Bachelor's,High,In-Store,12
+$287.95 ,19,Female,High,Single,Bachelor's,High,Mixed,11
+$132.52 ,31,Female,Middle,Widowed,Master's,High,Mixed,12
+$379.20 ,36,Female,Middle,Married,Bachelor's,Middle,Online,7
+$138.44 ,45,Female,High,Divorced,Bachelor's,Middle,Mixed,1
+$145.98 ,23,Female,High,Divorced,Master's,High,In-Store,1
+$405.66 ,28,Male,Middle,Married,High School,High,Online,11
+$419.98 ,26,Female,High,Single,High School,Middle,In-Store,14
+$260.14 ,50,Female,Middle,Divorced,Master's,High,Online,7
+$368.91 ,36,Female,Middle,Widowed,Bachelor's,High,In-Store,7
+$100.32 ,32,Male,Middle,Widowed,Master's,Middle,In-Store,8
+$107.82 ,34,Male,High,Married,Master's,Middle,Mixed,2
+$83.88 ,50,Male,Middle,Married,High School,Middle,Online,4
+$81.25 ,24,Female,Middle,Widowed,Bachelor's,Middle,Online,10
+$125.80 ,49,Male,Middle,Widowed,Master's,High,In-Store,1
+$197.90 ,18,Female,Middle,Single,Bachelor's,Middle,Mixed,5
+$299.09 ,44,Male,High,Divorced,High School,Middle,In-Store,14
+$79.30 ,41,Male,High,Married,High School,Middle,Online,2
+$55.73 ,33,Male,High,Divorced,High School,High,In-Store,3
+$256.44 ,46,Male,High,Single,Bachelor's,High,In-Store,3
+$337.21 ,23,Female,High,Married,Bachelor's,High,Online,11
+$494.97 ,35,Female,High,Single,Master's,Middle,In-Store,7
+$238.58 ,31,Female,Middle,Widowed,High School,High,Online,8
+$131.90 ,20,Female,High,Single,Bachelor's,High,Mixed,4
+$403.03 ,49,Female,Middle,Married,Bachelor's,High,Mixed,2
+$338.60 ,26,Female,High,Widowed,Bachelor's,High,In-Store,9
+$365.38 ,36,Male,Middle,Widowed,High School,High,Online,14
+$433.99 ,21,Male,Middle,Married,High School,High,Mixed,8
+$495.95 ,35,Female,Middle,Widowed,High School,Middle,In-Store,6
+$356.22 ,41,Male,High,Married,High School,Middle,In-Store,6
+$454.36 ,42,Male,Middle,Single,Master's,Middle,In-Store,12
+$486.07 ,50,Male,High,Single,Bachelor's,High,Mixed,12
+$427.86 ,30,Female,High,Divorced,High School,Middle,Mixed,8
+$235.13 ,49,Female,High,Divorced,Master's,High,Online,6
+$361.27 ,40,Female,Middle,Divorced,Bachelor's,Middle,Online,2
+$195.83 ,38,Female,Middle,Single,Bachelor's,Middle,Mixed,13
+$340.31 ,21,Male,High,Married,Master's,High,Online,14
+$489.67 ,40,Male,High,Divorced,Master's,High,Mixed,11
+$482.50 ,26,Male,High,Divorced,Master's,Middle,Mixed,13
+$433.14 ,32,Female,Middle,Married,Master's,Middle,In-Store,5
+$375.70 ,47,Female,Middle,Widowed,High School,High,Online,10
+$381.30 ,21,Male,Middle,Single,Master's,Middle,Online,7
+$210.21 ,34,Male,High,Widowed,High School,High,Mixed,14
+$408.81 ,29,Male,Middle,Widowed,Master's,High,Mixed,12
+$118.65 ,20,Female,Middle,Divorced,Bachelor's,High,Mixed,13
+$166.45 ,50,Male,High,Divorced,Bachelor's,Middle,Mixed,12
+$385.32 ,29,Female,Middle,Divorced,Master's,High,Online,9
+$161.41 ,37,Male,Middle,Widowed,High School,Middle,Mixed,3
+$130.92 ,39,Male,Middle,Single,Master's,Middle,Online,9
+$468.60 ,48,Female,Middle,Divorced,Bachelor's,High,Mixed,2
+$237.57 ,47,Male,High,Divorced,Bachelor's,Middle,Online,11
+$395.18 ,50,Female,Middle,Divorced,High School,High,In-Store,6
+$81.23 ,28,Female,High,Single,Bachelor's,High,Mixed,6
+$257.43 ,23,Male,Middle,Single,High School,Middle,Online,13
+$305.73 ,42,Male,High,Divorced,High School,High,Mixed,14
+$249.82 ,32,Male,High,Single,Bachelor's,High,In-Store,10
+$332.79 ,33,Male,Middle,Divorced,Bachelor's,High,Online,4
+$78.90 ,32,Male,High,Single,Bachelor's,Middle,In-Store,10
+$122.55 ,29,Male,High,Widowed,High School,High,Mixed,4
+$152.33 ,41,Female,High,Divorced,Bachelor's,Middle,In-Store,8
+$465.07 ,24,Female,Middle,Divorced,Bachelor's,High,Online,8
+$498.23 ,32,Female,High,Single,Master's,Middle,Online,9
+$491.18 ,41,Female,Middle,Widowed,High School,Middle,Mixed,14
+$149.42 ,18,Male,Middle,Divorced,Bachelor's,Middle,Mixed,5
+$82.13 ,25,Male,Middle,Single,Master's,Middle,Online,6
+$425.18 ,49,Male,Middle,Divorced,Bachelor's,High,Mixed,10
+$176.12 ,39,Male,High,Married,Master's,Middle,Online,14
+$70.30 ,47,Female,High,Single,High School,Middle,Online,3
+$319.39 ,43,Male,Middle,Married,Bachelor's,Middle,Mixed,3
+$113.51 ,38,Female,High,Widowed,High School,High,Mixed,8
+$492.74 ,40,Female,High,Single,Bachelor's,Middle,Mixed,13
+$143.80 ,33,Male,Middle,Divorced,Master's,Middle,In-Store,11
+$213.39 ,39,Female,High,Married,Bachelor's,High,Online,4
+$127.18 ,31,Male,Middle,Divorced,Bachelor's,High,In-Store,4
+$476.63 ,27,Male,Middle,Divorced,Master's,High,In-Store,1
+$56.02 ,31,Female,High,Single,Bachelor's,Middle,Online,12
+$398.97 ,36,Female,High,Widowed,Bachelor's,Middle,Online,9
+$53.45 ,27,Female,Middle,Divorced,High School,Middle,Mixed,11
+$471.31 ,50,Female,Middle,Married,High School,Middle,Mixed,7
+$179.19 ,49,Female,High,Divorced,High School,High,In-Store,12
+$294.61 ,43,Female,High,Divorced,High School,Middle,In-Store,4
+$83.50 ,21,Male,Middle,Widowed,Master's,High,In-Store,10
+$109.88 ,34,Male,High,Married,High School,Middle,Online,11
+$182.54 ,21,Female,High,Married,High School,High,Mixed,13
+$465.48 ,23,Female,High,Widowed,Bachelor's,High,Mixed,1
+$224.52 ,31,Female,Middle,Married,High School,Middle,Mixed,1
+$281.37 ,21,Male,High,Widowed,Master's,Middle,Online,14
+$125.68 ,22,Female,Middle,Married,Bachelor's,Middle,Online,9
+$178.21 ,38,Female,High,Single,High School,High,In-Store,9
+$483.23 ,27,Male,High,Divorced,Bachelor's,Middle,Online,9
+$415.30 ,18,Male,Middle,Married,Master's,High,In-Store,2
+$85.52 ,36,Male,High,Married,Master's,Middle,Mixed,7
+$422.31 ,44,Female,Middle,Widowed,High School,High,In-Store,3
+$437.40 ,23,Female,Middle,Widowed,Master's,Middle,Mixed,1
+$207.11 ,35,Male,Middle,Divorced,Bachelor's,Middle,Mixed,2
+$378.87 ,50,Female,High,Widowed,Bachelor's,Middle,Online,9
+$349.00 ,30,Female,High,Divorced,High School,High,Mixed,10
+$330.27 ,38,Male,Middle,Married,Bachelor's,Middle,In-Store,9
+$410.29 ,42,Male,Middle,Married,Master's,Middle,Online,1
+$400.86 ,24,Female,High,Divorced,Master's,Middle,Online,5
+$225.12 ,27,Female,High,Married,Master's,Middle,In-Store,6
+$273.48 ,36,Female,High,Widowed,Master's,High,Online,5
+$302.60 ,24,Female,High,Single,Bachelor's,Middle,Online,2
+$317.09 ,35,Male,High,Divorced,High School,High,Online,4
+$193.32 ,38,Female,High,Married,High School,High,Mixed,6
+$282.24 ,34,Male,High,Widowed,High School,High,Online,1
+$154.19 ,29,Female,High,Divorced,Master's,Middle,Online,1
+$84.15 ,41,Female,Middle,Widowed,Bachelor's,Middle,In-Store,1
+$214.69 ,41,Male,Middle,Divorced,High School,High,In-Store,9
+$61.21 ,32,Male,High,Married,Bachelor's,High,Mixed,13
+$462.48 ,36,Female,Middle,Single,High School,High,Online,12
+$449.18 ,33,Male,Middle,Married,Bachelor's,High,Mixed,10
+$314.36 ,25,Female,Middle,Married,Master's,Middle,In-Store,1
+$367.70 ,46,Female,Middle,Married,Bachelor's,Middle,Mixed,3
+$229.97 ,41,Female,High,Single,High School,Middle,Mixed,6
+$226.53 ,28,Female,Middle,Widowed,Bachelor's,Middle,Online,13
+$218.32 ,23,Male,High,Divorced,Master's,Middle,Mixed,3
+$132.67 ,48,Female,High,Widowed,High School,High,In-Store,1
+$416.96 ,26,Male,High,Single,Master's,High,In-Store,7
+$459.51 ,39,Female,High,Married,Master's,Middle,In-Store,11
+$487.96 ,45,Male,Middle,Married,High School,High,Mixed,12
+$150.11 ,22,Male,Middle,Divorced,High School,High,Mixed,8
+$218.87 ,36,Male,High,Married,High School,Middle,Mixed,11
+$437.06 ,29,Female,Middle,Married,Bachelor's,High,In-Store,11
+$122.58 ,33,Male,High,Married,Bachelor's,High,In-Store,12
+$195.07 ,35,Male,High,Married,Master's,Middle,Online,10
+$190.06 ,39,Female,Middle,Single,High School,High,In-Store,12
+$485.76 ,38,Female,Middle,Single,High School,Middle,In-Store,4
+$242.57 ,27,Female,High,Single,Bachelor's,High,In-Store,1
+$303.13 ,35,Male,Middle,Widowed,High School,High,Online,10
+$136.10 ,43,Female,Middle,Widowed,Master's,Middle,In-Store,14
+$466.74 ,19,Male,Middle,Divorced,High School,Middle,In-Store,5
+$450.52 ,30,Female,High,Single,High School,High,Online,8
+$246.44 ,35,Male,High,Divorced,Bachelor's,Middle,Mixed,5
+$93.52 ,34,Male,High,Widowed,High School,Middle,Online,12
+$137.75 ,28,Female,Middle,Married,High School,High,Online,4
+$78.64 ,44,Female,Middle,Married,Master's,Middle,Mixed,12
+$214.82 ,25,Male,High,Divorced,Master's,Middle,Mixed,11
+$57.39 ,45,Male,Middle,Married,Bachelor's,High,Mixed,3
+$363.91 ,47,Female,High,Single,High School,Middle,Online,9
+$304.79 ,39,Male,Middle,Single,High School,Middle,In-Store,10
+$363.98 ,32,Male,High,Divorced,High School,Middle,Online,1
+$249.60 ,47,Male,Middle,Widowed,Bachelor's,High,Mixed,11
+$345.04 ,19,Male,High,Married,Bachelor's,Middle,In-Store,13
+$59.15 ,48,Female,Middle,Single,High School,High,In-Store,8
+$461.81 ,27,Male,High,Single,Master's,High,Mixed,8
+$280.88 ,31,Female,High,Divorced,Bachelor's,High,Mixed,2
+$283.70 ,44,Male,Middle,Married,Master's,Middle,Mixed,8
+$411.95 ,24,Female,High,Widowed,High School,Middle,In-Store,5
+$476.11 ,32,Female,Middle,Widowed,Master's,Middle,In-Store,1
+$399.24 ,28,Female,Middle,Married,Master's,High,In-Store,10
+$90.79 ,26,Male,Middle,Divorced,Master's,Middle,In-Store,6
+$229.56 ,38,Female,Middle,Married,Master's,Middle,Online,11
+$160.47 ,28,Female,Middle,Divorced,High School,Middle,Mixed,6
+$399.95 ,37,Female,High,Widowed,Master's,Middle,In-Store,10
+$337.33 ,47,Female,High,Divorced,Bachelor's,Middle,In-Store,10
+$204.83 ,41,Female,High,Widowed,Master's,Middle,In-Store,5
+$193.94 ,22,Female,Middle,Widowed,Master's,High,Mixed,9
+$460.37 ,46,Male,High,Married,Master's,Middle,Online,12
+$389.47 ,31,Male,Middle,Single,Bachelor's,Middle,In-Store,6
+$370.05 ,38,Male,High,Single,Master's,High,Mixed,10
+$462.24 ,45,Male,High,Single,Master's,Middle,Mixed,13
+$472.53 ,30,Female,High,Married,High School,High,Online,4
+$407.29 ,45,Female,Middle,Married,High School,Middle,In-Store,3
+$135.65 ,18,Male,High,Married,Bachelor's,High,Online,14
+$352.35 ,36,Male,High,Single,Bachelor's,Middle,Online,14
+$441.73 ,25,Female,High,Single,High School,High,Online,8
+$105.95 ,21,Female,High,Divorced,High School,Middle,Mixed,11
+$351.54 ,26,Male,High,Single,Master's,High,Mixed,12
+$321.26 ,40,Male,High,Divorced,Bachelor's,High,Online,14
+$421.50 ,47,Female,High,Divorced,High School,Middle,Online,3
+$217.62 ,29,Female,Middle,Divorced,High School,High,Online,5
+$226.04 ,21,Male,Middle,Single,Bachelor's,High,Online,12
+$385.08 ,43,Male,Middle,Widowed,High School,High,In-Store,1
+$181.10 ,33,Male,High,Widowed,Master's,Middle,Online,5
+$246.41 ,23,Female,Middle,Single,Master's,Middle,In-Store,11
+$140.87 ,37,Female,Middle,Divorced,Bachelor's,High,In-Store,9
+$151.25 ,34,Female,High,Single,Master's,High,In-Store,10
+$171.52 ,27,Male,High,Divorced,Master's,Middle,Mixed,12
+$399.56 ,40,Male,Middle,Widowed,Master's,High,Online,1
+$173.46 ,40,Female,Middle,Widowed,Master's,Middle,Mixed,2
+$332.14 ,43,Male,High,Widowed,Bachelor's,High,Online,13
+$365.88 ,49,Male,High,Single,Bachelor's,High,Mixed,9
+$354.92 ,27,Female,Middle,Married,Bachelor's,Middle,Mixed,13
+$195.46 ,19,Female,High,Single,High School,High,Mixed,9
+$474.03 ,40,Female,High,Married,Master's,Middle,In-Store,13
+$106.96 ,27,Male,Middle,Married,Bachelor's,High,In-Store,3
+$371.84 ,29,Female,Middle,Married,Master's,High,In-Store,2
+$497.75 ,24,Female,High,Single,High School,Middle,In-Store,13
+$492.83 ,45,Female,Middle,Married,Master's,Middle,Online,2
+$295.54 ,39,Female,Middle,Divorced,High School,Middle,Online,14
+$494.81 ,40,Male,High,Widowed,High School,High,Mixed,6
+$160.25 ,21,Female,High,Single,Master's,Middle,Online,12
+$198.36 ,42,Female,Middle,Married,Master's,High,Online,4
+$82.39 ,44,Female,Middle,Divorced,Bachelor's,High,In-Store,1
+$290.56 ,46,Female,Middle,Married,Master's,High,In-Store,4
+$206.79 ,29,Male,High,Divorced,Master's,High,In-Store,4
+$401.43 ,19,Female,Middle,Married,High School,High,Mixed,5
+$188.17 ,21,Male,High,Widowed,Master's,High,Online,9
+$83.21 ,38,Female,High,Single,High School,High,Online,7
+$371.12 ,49,Female,High,Divorced,Master's,High,Online,8
+$185.83 ,24,Male,High,Married,High School,High,In-Store,1
+$117.13 ,27,Male,High,Divorced,Master's,Middle,Mixed,6
+$52.24 ,44,Female,Middle,Married,Master's,High,In-Store,8
+$446.69 ,28,Female,High,Married,Bachelor's,High,In-Store,13
+$216.84 ,23,Male,Middle,Married,High School,Middle,In-Store,5
+$75.27 ,42,Female,High,Divorced,High School,High,Mixed,1
+$308.87 ,20,Male,Middle,Widowed,Master's,High,In-Store,11
+$169.77 ,49,Male,High,Divorced,Master's,Middle,In-Store,7
+$289.08 ,19,Male,High,Divorced,High School,High,Online,7
+$74.09 ,38,Female,Middle,Single,High School,High,Mixed,8
+$201.53 ,43,Male,High,Married,High School,Middle,Online,11
+$244.60 ,38,Male,Middle,Divorced,Bachelor's,High,Online,3
+$320.50 ,21,Male,Middle,Widowed,Bachelor's,High,In-Store,9
+$91.63 ,27,Male,Middle,Widowed,Master's,Middle,In-Store,2
+$251.93 ,35,Male,Middle,Married,Master's,High,In-Store,7
+$477.35 ,30,Male,Middle,Married,Bachelor's,Middle,Online,14
+$86.63 ,31,Male,High,Widowed,Master's,Middle,Mixed,3
+$429.24 ,34,Female,High,Widowed,High School,High,Mixed,10
+$470.38 ,24,Female,High,Married,High School,High,Mixed,9
+$495.80 ,32,Female,Middle,Single,Master's,High,Mixed,10
+$129.64 ,21,Female,High,Widowed,Bachelor's,Middle,In-Store,3
+$473.77 ,41,Male,Middle,Single,Master's,High,Online,13
+$130.84 ,40,Female,High,Married,High School,Middle,Online,13
+$436.54 ,48,Male,Middle,Single,Master's,High,Online,9
+$264.01 ,25,Female,Middle,Widowed,Bachelor's,Middle,In-Store,2
+$58.27 ,30,Female,High,Divorced,Bachelor's,High,In-Store,13
+$190.76 ,25,Male,Middle,Single,Master's,High,In-Store,11
+$105.76 ,40,Female,High,Widowed,Master's,High,Online,4
+$254.29 ,24,Female,Middle,Single,Master's,High,Mixed,3
+$435.52 ,49,Male,Middle,Divorced,Bachelor's,High,Online,11
+$235.49 ,50,Female,High,Married,Master's,Middle,In-Store,5
+$161.34 ,45,Male,High,Widowed,Master's,Middle,Mixed,4
+$167.67 ,19,Male,High,Single,Master's,High,In-Store,5
+$96.68 ,50,Female,Middle,Widowed,High School,High,Mixed,10
+$234.58 ,32,Male,High,Married,Master's,High,Mixed,1
+$156.48 ,21,Male,Middle,Married,Master's,Middle,In-Store,4
+$204.47 ,34,Male,Middle,Widowed,Master's,High,Online,3
+$315.03 ,34,Female,Middle,Widowed,Bachelor's,Middle,Online,2
+$330.36 ,42,Male,Middle,Single,Master's,High,In-Store,3
+$456.83 ,42,Male,Middle,Single,Bachelor's,Middle,Online,13
+$236.05 ,31,Male,High,Widowed,Bachelor's,High,In-Store,13
+$289.28 ,35,Female,High,Widowed,High School,High,Online,13
+$483.77 ,27,Female,High,Married,High School,Middle,In-Store,10
+$64.50 ,45,Male,Middle,Married,High School,Middle,In-Store,13
+$436.57 ,43,Male,High,Married,Bachelor's,Middle,Mixed,3
+$221.88 ,33,Female,Middle,Widowed,Master's,High,In-Store,9
+$278.21 ,31,Female,Middle,Single,High School,Middle,Mixed,14
+$344.43 ,31,Female,High,Married,Master's,High,Online,5
+$326.08 ,26,Male,High,Single,Master's,High,In-Store,8
+$437.97 ,49,Male,High,Married,Bachelor's,Middle,Online,12
+$391.87 ,23,Male,High,Single,Master's,High,Online,6
+$333.41 ,42,Male,High,Single,Master's,Middle,Online,3
+$251.54 ,32,Male,Middle,Single,Bachelor's,High,Online,1
+$292.08 ,37,Female,Middle,Single,High School,Middle,In-Store,11
+$258.68 ,49,Male,Middle,Single,High School,Middle,Online,9
+$258.02 ,26,Male,Middle,Married,Bachelor's,High,In-Store,13
+$181.87 ,29,Female,High,Single,Master's,Middle,Mixed,11
+$81.18 ,26,Male,High,Divorced,High School,Middle,Online,3
+$382.94 ,23,Female,High,Divorced,Master's,High,In-Store,3
+$402.82 ,47,Female,High,Single,Bachelor's,High,Online,13
+$497.76 ,30,Male,High,Single,Bachelor's,Middle,In-Store,4
+$227.58 ,26,Female,High,Single,High School,High,Online,11
+$263.57 ,35,Female,High,Divorced,Bachelor's,High,Mixed,8
+$422.09 ,40,Male,High,Married,High School,High,In-Store,7
+$411.83 ,35,Male,Middle,Married,Master's,High,In-Store,10
+$242.65 ,21,Male,Middle,Single,Master's,Middle,Mixed,9
+$298.93 ,41,Male,Middle,Widowed,Master's,Middle,Mixed,2
+$191.21 ,44,Female,High,Single,Bachelor's,High,Mixed,13
+$136.67 ,44,Female,High,Married,Master's,Middle,Online,1
+$324.11 ,37,Male,Middle,Widowed,Master's,High,Online,7
+$105.64 ,40,Female,High,Widowed,Bachelor's,High,Online,12
+$295.60 ,43,Male,High,Widowed,Master's,High,Online,5
+$227.03 ,48,Male,Middle,Single,Master's,High,In-Store,4
+$485.77 ,32,Female,High,Divorced,Bachelor's,Middle,Mixed,6
+$173.43 ,37,Female,Middle,Widowed,High School,High,In-Store,14
+$462.96 ,29,Female,Middle,Widowed,High School,Middle,Online,3
+$203.13 ,36,Male,High,Divorced,High School,Middle,Online,6
+$443.11 ,50,Female,High,Married,Master's,High,In-Store,1
+$336.89 ,29,Female,High,Single,Master's,Middle,Online,9
+$337.17 ,26,Male,Middle,Married,Bachelor's,Middle,In-Store,3
+$429.24 ,22,Female,High,Single,High School,High,Online,13
+$197.70 ,35,Female,High,Married,High School,High,Mixed,9
+$336.96 ,23,Male,Middle,Married,Bachelor's,Middle,In-Store,7
+$489.81 ,40,Female,High,Married,High School,High,Mixed,3
+$455.55 ,32,Female,High,Single,High School,Middle,Mixed,10
+$266.61 ,29,Male,Middle,Divorced,Master's,Middle,Online,7
+$361.40 ,42,Male,High,Single,High School,Middle,In-Store,7
+$51.86 ,47,Female,Middle,Divorced,Master's,Middle,Mixed,6
+$310.16 ,27,Male,Middle,Married,High School,Middle,Mixed,14
+$300.73 ,40,Female,Middle,Widowed,Master's,Middle,Online,10
+$356.87 ,28,Female,High,Married,High School,Middle,Mixed,10
+$82.37 ,28,Male,Middle,Widowed,High School,Middle,Mixed,2
+$372.60 ,29,Female,High,Divorced,Bachelor's,High,Mixed,10
+$78.32 ,29,Female,Middle,Widowed,High School,High,Online,7
+$71.72 ,32,Female,High,Single,Master's,High,Online,13
+$241.10 ,39,Female,High,Single,High School,High,In-Store,8
+$96.86 ,22,Male,Middle,Married,Bachelor's,High,Mixed,7
+$276.25 ,48,Male,Middle,Divorced,Master's,High,In-Store,8
+$318.45 ,29,Male,Middle,Widowed,Master's,Middle,In-Store,5
+$117.03 ,41,Female,High,Married,High School,High,Online,5
+$490.41 ,50,Female,Middle,Married,Master's,High,Online,5
+$476.42 ,48,Male,Middle,Divorced,Bachelor's,High,In-Store,2
+$392.27 ,29,Female,High,Divorced,Master's,High,Mixed,7
+$207.24 ,36,Male,High,Single,Bachelor's,Middle,Online,3
+$141.63 ,43,Male,High,Divorced,High School,Middle,Online,11
+$244.47 ,30,Male,High,Widowed,Bachelor's,High,Online,4
+$251.63 ,24,Male,High,Married,Master's,High,Online,10
+$431.78 ,30,Male,Middle,Divorced,Bachelor's,Middle,Online,7
+$303.09 ,37,Female,Middle,Married,Master's,High,Online,11
+$341.24 ,40,Male,High,Married,Bachelor's,High,Mixed,4
+$211.39 ,30,Female,Middle,Divorced,Master's,High,Online,1
+$379.21 ,39,Female,Middle,Married,Bachelor's,Middle,Mixed,1
+$309.53 ,46,Female,High,Widowed,Master's,High,Mixed,5
+$359.45 ,48,Male,Middle,Divorced,Master's,High,Online,11
+$479.62 ,20,Female,High,Widowed,High School,Middle,In-Store,10
+$208.60 ,34,Male,High,Married,Bachelor's,Middle,Mixed,3
+$180.21 ,50,Female,Middle,Single,Master's,High,Mixed,14
+$197.90 ,25,Male,Middle,Single,High School,High,Mixed,14
+$362.30 ,49,Male,Middle,Single,Bachelor's,High,Online,6
+$159.53 ,25,Female,High,Divorced,Bachelor's,High,Mixed,7
+$149.52 ,40,Female,High,Widowed,High School,High,In-Store,8
+$206.32 ,19,Female,High,Widowed,Bachelor's,High,Online,12
+$91.34 ,22,Female,High,Single,High School,Middle,Online,6
+$455.44 ,25,Female,High,Divorced,High School,Middle,Mixed,3
+$468.16 ,32,Female,High,Divorced,Master's,Middle,Online,2
+$463.67 ,44,Female,High,Divorced,Bachelor's,High,Online,5
+$69.78 ,50,Female,High,Single,High School,Middle,Mixed,9
+$453.37 ,26,Male,High,Married,Bachelor's,High,Mixed,9
+$106.15 ,21,Female,High,Widowed,Bachelor's,Middle,In-Store,8
+$378.47 ,21,Female,Middle,Single,High School,High,Online,2
