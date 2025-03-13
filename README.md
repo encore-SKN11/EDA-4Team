@@ -76,7 +76,7 @@
 
 ![image](https://github.com/user-attachments/assets/28a45ff5-ef23-4aae-87e5-b060a191af11)
 
-# 4.결측치, 이상치 탐색
+# 4.결측치, 이상치 탐색 및 시각화
 
 - 4-1 남자 여자 평균 소비자 구매 금액 / 소비자 소득 수준 평균 소비자의 구매 금액
 <img width="1467" alt="스크린샷 2025-03-13 오후 8 00 11" src="https://github.com/user-attachments/assets/174ecb9f-22bc-43c6-8546-62d20dd4e535" />
@@ -95,10 +95,5 @@
 
 - 4-6 20대 30대 가격 금액에 대한 경량 그래프
 <img width="977" alt="스크린샷 2025-03-13 오후 8 08 30" src="https://github.com/user-attachments/assets/0ebefe14-6e33-4cb6-a3cf-42a0b88fe59b" />
-
-
----
-
-
 
 
