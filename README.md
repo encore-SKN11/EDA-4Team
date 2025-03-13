@@ -7,10 +7,9 @@
 ---
 
 ## 🎯 프로젝트 목표  
-✔ 가격대별 소비 트렌드 분석  
-✔ 소비자의 구매 패턴 및 성향 파악  
-✔ 고가/저가 상품의 매출 기여도 비교  
-✔ 할인 및 프로모션이 소비에 미치는 영향 분석  
+✔ 특정 쇼핑몰에 효과적인 광고와 마켓팅의 예상
+✔ 소비자층의 특징에 따른 소비 금액의 차이 분석
+✔ 특정 소비자층의 소비 경향의 분석 
 
 ---
 
@@ -85,6 +84,8 @@
 <img width="786" alt="스크린샷 2025-03-13 오후 8 04 51" src="https://github.com/user-attachments/assets/70d71ae4-2fe6-4813-9ce9-bd85a3ce740e" />
 <img width="977" alt="스크린샷 2025-03-13 오후 8 08 30" src="https://github.com/user-attachments/assets/0ebefe14-6e33-4cb6-a3cf-42a0b88fe59b" />
 
+![image](https://github.com/user-attachments/assets/ce36dcc0-60d3-4293-a304-f8181060092e)
+![image](https://github.com/user-attachments/assets/28a45ff5-ef23-4aae-87e5-b060a191af11)
 
 
 
