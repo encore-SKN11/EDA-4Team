@@ -50,11 +50,31 @@
 ![image](https://github.com/user-attachments/assets/9a42c12c-7507-40cf-94b7-b4aeb7e2d344)
 
 # 2.데이터 구조 및 통계
+## 데이터 구조 확인 (info)
 ![image](https://github.com/user-attachments/assets/35817d1b-34b2-423b-9bf3-7dd1c0a97315)
+## 📊 데이터 컬럼 설명
+
+| 컬럼 이름              | 데이터 타입     | 설명                          |
+|-----------------------|----------------|-----------------------------|
+| Purchase_Amount       | Numeric        | 소비자의 구매 금액           |
+| Age                   | Numeric        | 소비자의 나이                |
+| Gender                | Categorical    | 소비자의 성별 (예: 남성, 여성)|
+| Income_Level          | Categorical    | 소비자의 소득 수준           |
+| Marital_Status        | Categorical    | 소비자의 결혼 상태 (예: 기혼, 미혼)|
+| Education_Level       | Categorical    | 소비자의 교육 수준 (예: 고졸, 대학졸)|
+| Occupation            | Categorical    | 소비자의 직업                |
+| Purchase_Channel      | Categorical    | 구매 채널 (예: 온라인, 오프라인)|
+| Time_to_Decision      | Numeric        | 소비자가 구매 결정을 내리기까지의 시간 (분)|
+
+
+
+## 데이터 구조 확인(describe)
 <img src="https://github.com/user-attachments/assets/5ac17aef-98df-4029-a39e-04d78a594716" />
 
 # 3. 데이터 전처리
+![image](https://github.com/user-attachments/assets/ce36dcc0-60d3-4293-a304-f8181060092e)
 
+![image](https://github.com/user-attachments/assets/28a45ff5-ef23-4aae-87e5-b060a191af11)
 
 <img width="1467" alt="스크린샷 2025-03-13 오후 8 00 11" src="https://github.com/user-attachments/assets/174ecb9f-22bc-43c6-8546-62d20dd4e535" />
 <img width="732" alt="스크린샷 2025-03-13 오후 8 00 49" src="https://github.com/user-attachments/assets/79a7e87a-f1a5-419a-9e25-cb5052af8d22" />
@@ -63,15 +83,8 @@
 <img width="786" alt="스크린샷 2025-03-13 오후 8 04 51" src="https://github.com/user-attachments/assets/70d71ae4-2fe6-4813-9ce9-bd85a3ce740e" />
 <img width="977" alt="스크린샷 2025-03-13 오후 8 08 30" src="https://github.com/user-attachments/assets/0ebefe14-6e33-4cb6-a3cf-42a0b88fe59b" />
 
-![image](https://github.com/user-attachments/assets/ce36dcc0-60d3-4293-a304-f8181060092e)
-![image](https://github.com/user-attachments/assets/28a45ff5-ef23-4aae-87e5-b060a191af11)
-
-
 
 ---
-
-📌 **이 프로젝트는 전자상거래 시장의 가격 전략 개선 및 소비자 이해를 목표로 합니다.**  
-📈 데이터를 통해 인사이트를 발견하고, 보다 효과적인 마케팅 전략을 제시합니다. 🚀
 
 
 
