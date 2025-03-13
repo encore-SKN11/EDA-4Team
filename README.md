@@ -14,11 +14,39 @@
 
 ---
 
-## ✨ **KB이노베이터** ✨  
-**팀원**:  
-- 🌟 **김성지**  
-- 🌟 **방성일**  
-- 🌟 **이선호**  
+
+## 🔧 사용 기술  
+- **데이터 수집**: Python (pandas, requests, BeautifulSoup)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+- **데이터 분석**: pandas, numpy, matplotlib, seaborn  
+- **시각화 대시보드**: Streamlit, Plotly  
+- **머신러닝 예측**: scikit-learn  
+
+---
+
+
+
+## 🚀 기대 효과  
+✅ **데이터 기반의 가격 전략 수립**  
+✅ **소비 트렌드 변화에 대한 실시간 대응 가능**  
+✅ **효율적인 프로모션 및 마케팅 기획 가능**  
+✅ **고객 맞춤형 상품 추천 시스템 개선**  
+
+
+
+
+## ✨ **KB이노베이터** ✨
+
+### **팀원**
+
+| 🌟 **이름**   |  
+|---------------|
+| 김성지        |
+| 방성일        |
+| 이선호        |
+
 
 
 
@@ -53,22 +81,6 @@
 
 
 
-## 🚀 기대 효과  
-✅ **데이터 기반의 가격 전략 수립**  
-✅ **소비 트렌드 변화에 대한 실시간 대응 가능**  
-✅ **효율적인 프로모션 및 마케팅 기획 가능**  
-✅ **고객 맞춤형 상품 추천 시스템 개선**  
-
----
-
-## 🔧 사용 기술  
-- **데이터 수집**: Python (pandas, requests, BeautifulSoup)
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-
-- **데이터 분석**: pandas, numpy, matplotlib, seaborn  
-- **시각화 대시보드**: Streamlit, Plotly  
-- **머신러닝 예측**: scikit-learn  
 
 ---
 
