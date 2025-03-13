@@ -14,6 +14,17 @@
 
 ---
 
+## ✨ **KB이노베이터** ✨  
+**팀원**:  
+- 🌟 **김성지**  
+- 🌟 **방성일**  
+- 🌟 **이선호**  
+
+
+
+
+
+---
 ## 📊 분석 내용  
 1. **가격 구간별 소비 패턴**  
    - 저가(0~10만원), 중가(10~50만원), 고가(50만원 이상)로 구분하여 구매율 비교  
@@ -30,6 +41,17 @@
    - 가격대별 고객 유지율 (Customer Retention)  
 
 ---
+# 1.데이터 로드
+![image](https://github.com/user-attachments/assets/9a42c12c-7507-40cf-94b7-b4aeb7e2d344)
+
+# 2.데이터 구조 및 통계
+![image](https://github.com/user-attachments/assets/35817d1b-34b2-423b-9bf3-7dd1c0a97315)
+<img src="https://github.com/user-attachments/assets/5ac17aef-98df-4029-a39e-04d78a594716" />
+
+
+
+
+
 
 ## 🚀 기대 효과  
 ✅ **데이터 기반의 가격 전략 수립**  
@@ -40,7 +62,10 @@
 ---
 
 ## 🔧 사용 기술  
-- **데이터 수집**: Python (pandas, requests, BeautifulSoup)  
+- **데이터 수집**: Python (pandas, requests, BeautifulSoup)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
 - **데이터 분석**: pandas, numpy, matplotlib, seaborn  
 - **시각화 대시보드**: Streamlit, Plotly  
 - **머신러닝 예측**: scikit-learn  
