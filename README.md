@@ -74,6 +74,8 @@
 ![image](https://github.com/user-attachments/assets/28a45ff5-ef23-4aae-87e5-b060a191af11)
 # 3. 데이터 전처리 및 이상치 결측지 
 ![image](https://github.com/user-attachments/assets/35817d1b-34b2-423b-9bf3-7dd1c0a97315)
+<img width="958" alt="스크린샷 2025-03-13 오후 8 28 30" src="https://github.com/user-attachments/assets/b72f3e36-9edc-4650-99dc-4f69e90e6203" />
+
 
 # 4.시각화
 
