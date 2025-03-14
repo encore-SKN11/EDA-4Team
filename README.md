@@ -67,10 +67,6 @@
 | Time_to_Decision      | int64        | 소비자가 구매 결정을 내리기까지의 시간 (분)|
 
 
-
-## 데이터 구조 확인(describe)
-<img src="https://github.com/user-attachments/assets/5ac17aef-98df-4029-a39e-04d78a594716" />
-
 ![image](https://github.com/user-attachments/assets/ce36dcc0-60d3-4293-a304-f8181060092e)
 
 ![image](https://github.com/user-attachments/assets/28a45ff5-ef23-4aae-87e5-b060a191af11)
