@@ -1,0 +1,902 @@
+Purchase_Amount,Gender,Income_Level,Marital_Status,Education_Level,Occupation,Purchase_Channel,Time_to_Decision,Age_Group
+333.8,Female,Middle,Married,Bachelor's,Middle,Mixed,2,20대
+222.22,Male,High,Married,High School,High,In-Store,6,40대
+426.22,Female,Middle,Single,Master's,High,Mixed,3,20대
+101.31,Female,Middle,Single,Master's,Middle,Mixed,10,20대
+211.7,Female,Middle,Widowed,High School,Middle,Mixed,4,30대
+487.95,Male,Middle,Married,Master's,High,Mixed,7,40대
+486.4,Female,Middle,Divorced,High School,Middle,Online,13,20대
+218.06,Male,Middle,Single,High School,Middle,Online,13,30대
+201.96,Female,High,Divorced,Master's,Middle,In-Store,7,20대
+389.7,Male,Middle,Divorced,Bachelor's,Middle,In-Store,12,30대
+238.93,Female,High,Widowed,Bachelor's,Middle,Online,1,30대
+61.22,Male,Middle,Single,Bachelor's,High,In-Store,5,30대
+79.81,Male,High,Married,High School,Middle,Mixed,14,30대
+58.51,Female,High,Widowed,High School,High,Online,14,30대
+109.29,Male,High,Divorced,Master's,High,Online,11,40대
+356.45,Male,High,Single,Bachelor's,High,Mixed,8,30대
+236.99,Female,Middle,Divorced,Bachelor's,High,Mixed,13,30대
+454.39,Male,Middle,Widowed,Bachelor's,High,In-Store,3,30대
+490.75,Female,High,Widowed,Bachelor's,Middle,In-Store,13,20대
+463.07,Female,Middle,Widowed,High School,Middle,Mixed,11,20대
+56.74,Female,High,Married,Master's,High,Online,7,30대
+371.32,Male,High,Divorced,Bachelor's,Middle,In-Store,6,30대
+461.0,Female,Middle,Single,Bachelor's,Middle,Online,9,30대
+253.37,Female,High,Married,Bachelor's,High,In-Store,8,30대
+136.53,Male,High,Widowed,High School,High,Mixed,10,30대
+489.05,Female,Middle,Single,Master's,Middle,Online,7,30대
+81.91,Male,High,Single,Master's,High,In-Store,2,50대
+135.8,Male,Middle,Married,Bachelor's,Middle,In-Store,9,50대
+382.24,Female,Middle,Widowed,High School,Middle,In-Store,3,40대
+354.7,Female,High,Married,Bachelor's,Middle,Online,12,30대
+433.82,Male,High,Divorced,Bachelor's,High,Online,10,20대
+454.38,Male,High,Widowed,High School,Middle,Online,7,40대
+138.88,Male,Middle,Married,High School,High,In-Store,4,20대
+52.34,Female,High,Single,Bachelor's,High,In-Store,13,30대
+338.2,Male,Middle,Single,Bachelor's,High,Online,7,30대
+263.15,Female,Middle,Widowed,High School,Middle,In-Store,10,20대
+371.58,Female,Middle,Married,Master's,Middle,Mixed,11,30대
+353.4,Male,Middle,Widowed,Bachelor's,Middle,Online,3,30대
+329.41,Female,Middle,Divorced,High School,High,In-Store,2,40대
+54.46,Female,Middle,Married,Master's,Middle,Online,1,40대
+257.12,Male,High,Widowed,Master's,Middle,Online,11,40대
+293.04,Male,High,Divorced,Bachelor's,Middle,In-Store,6,40대
+110.4,Male,High,Single,Master's,High,Mixed,12,30대
+76.27,Female,Middle,Married,Master's,High,In-Store,10,40대
+392.08,Female,High,Widowed,Bachelor's,Middle,Online,6,40대
+51.22,Female,High,Married,Bachelor's,High,Online,5,20대
+227.57,Male,Middle,Divorced,Bachelor's,High,Online,14,30대
+378.87,Female,Middle,Widowed,Bachelor's,Middle,Online,5,40대
+423.92,Female,Middle,Widowed,High School,High,Mixed,8,20대
+299.31,Female,Middle,Single,Bachelor's,Middle,Mixed,3,30대
+169.28,Male,Middle,Widowed,Master's,Middle,Mixed,6,40대
+449.13,Male,Middle,Widowed,High School,High,In-Store,14,20대
+427.48,Female,High,Married,Master's,High,Online,11,30대
+171.61,Female,Middle,Single,High School,High,Online,8,20대
+240.28,Female,High,Married,Bachelor's,High,Online,4,40대
+310.17,Female,High,Single,High School,High,In-Store,13,30대
+166.0,Female,Middle,Married,Bachelor's,Middle,Online,5,20대
+362.01,Male,High,Divorced,Bachelor's,High,In-Store,1,30대
+395.97,Female,Middle,Married,Bachelor's,High,In-Store,1,30대
+474.99,Female,Middle,Widowed,High School,Middle,Online,5,50대
+286.43,Female,Middle,Widowed,High School,Middle,Mixed,14,30대
+414.83,Male,Middle,Divorced,Master's,Middle,Mixed,8,20대
+391.38,Female,High,Widowed,Master's,High,In-Store,8,30대
+368.4,Male,Middle,Divorced,Bachelor's,High,Online,13,40대
+424.39,Female,Middle,Divorced,Bachelor's,Middle,Mixed,13,30대
+197.12,Male,High,Married,High School,High,In-Store,10,40대
+454.57,Male,High,Single,Bachelor's,High,Mixed,1,40대
+298.38,Male,Middle,Divorced,High School,High,Mixed,3,30대
+111.7,Male,High,Divorced,High School,High,Online,7,30대
+373.69,Male,Middle,Married,Bachelor's,Middle,Online,14,30대
+354.87,Male,High,Widowed,Master's,Middle,In-Store,12,30대
+214.48,Female,Middle,Widowed,Bachelor's,High,Online,2,10대 미만
+399.58,Male,High,Divorced,Bachelor's,Middle,In-Store,7,20대
+380.99,Female,High,Widowed,High School,Middle,Mixed,8,20대
+79.0,Male,Middle,Married,High School,High,Online,7,30대
+113.88,Female,Middle,Married,Bachelor's,Middle,Online,9,40대
+121.57,Male,Middle,Married,High School,Middle,Mixed,13,20대
+215.54,Female,High,Divorced,High School,Middle,Online,10,20대
+87.03,Male,High,Married,Bachelor's,High,Mixed,7,40대
+111.75,Male,High,Divorced,High School,High,In-Store,8,10대 미만
+136.2,Female,High,Widowed,Master's,High,Mixed,9,40대
+439.31,Male,Middle,Married,High School,Middle,In-Store,7,40대
+194.93,Female,Middle,Married,Bachelor's,Middle,Online,5,10대 미만
+377.67,Male,Middle,Widowed,Master's,High,Online,14,20대
+366.77,Female,Middle,Married,Bachelor's,Middle,Mixed,1,20대
+178.04,Female,High,Divorced,Master's,Middle,In-Store,12,30대
+461.09,Female,High,Divorced,High School,High,Online,8,20대
+211.16,Female,High,Single,High School,Middle,In-Store,2,10대 미만
+421.95,Female,Middle,Widowed,Bachelor's,High,Mixed,7,20대
+378.59,Female,Middle,Divorced,Bachelor's,High,Online,14,40대
+444.87,Male,Middle,Divorced,Bachelor's,High,Online,7,40대
+160.82,Female,High,Widowed,Bachelor's,High,In-Store,3,10대 미만
+494.18,Male,High,Single,Master's,Middle,Mixed,14,30대
+177.05,Male,Middle,Single,Bachelor's,Middle,Online,1,20대
+450.66,Female,Middle,Married,Master's,High,In-Store,9,20대
+164.27,Female,High,Married,Bachelor's,Middle,Online,14,40대
+346.36,Female,Middle,Widowed,Master's,High,Mixed,14,30대
+377.77,Female,Middle,Widowed,High School,High,Mixed,3,30대
+163.41,Female,Middle,Widowed,High School,Middle,In-Store,4,40대
+467.58,Female,Middle,Divorced,Master's,Middle,Mixed,7,30대
+247.51,Female,Middle,Widowed,Bachelor's,High,Mixed,2,30대
+365.1,Female,Middle,Single,High School,High,In-Store,1,20대
+485.42,Female,High,Single,Master's,Middle,Online,4,30대
+250.54,Female,Middle,Widowed,Bachelor's,High,In-Store,3,40대
+163.14,Female,Middle,Divorced,High School,High,Mixed,1,40대
+162.31,Male,High,Divorced,Bachelor's,Middle,In-Store,11,20대
+328.21,Male,Middle,Widowed,Master's,High,Mixed,12,30대
+268.59,Female,High,Married,Master's,High,Online,3,30대
+257.37,Female,High,Divorced,High School,High,Online,13,10대 미만
+205.49,Female,Middle,Single,High School,High,In-Store,11,40대
+407.91,Male,High,Divorced,Master's,High,In-Store,14,40대
+254.73,Female,High,Divorced,Bachelor's,High,Online,3,30대
+397.78,Female,Middle,Divorced,Bachelor's,High,Online,11,30대
+305.29,Female,High,Married,Bachelor's,High,Online,10,30대
+257.86,Male,Middle,Divorced,High School,High,Online,1,40대
+393.45,Female,High,Single,High School,Middle,In-Store,12,40대
+58.49,Male,High,Married,Bachelor's,Middle,Online,7,30대
+226.48,Male,Middle,Single,High School,Middle,In-Store,11,40대
+469.22,Female,High,Single,Master's,Middle,In-Store,7,20대
+335.32,Female,High,Divorced,High School,High,Mixed,10,40대
+184.74,Male,High,Divorced,High School,Middle,In-Store,10,30대
+427.1,Male,High,Married,High School,Middle,Mixed,5,40대
+326.82,Male,High,Widowed,High School,High,Mixed,4,30대
+98.97,Male,High,Widowed,High School,Middle,In-Store,11,40대
+77.65,Male,High,Single,High School,High,Online,1,30대
+85.61,Female,Middle,Widowed,Master's,High,Online,5,40대
+164.79,Male,High,Widowed,High School,High,In-Store,1,40대
+235.46,Female,High,Widowed,High School,High,In-Store,2,20대
+245.14,Female,High,Widowed,Master's,Middle,Online,3,30대
+439.91,Male,High,Divorced,Bachelor's,Middle,Online,10,40대
+309.22,Male,High,Widowed,High School,High,Mixed,10,30대
+146.59,Male,Middle,Widowed,Master's,Middle,Mixed,3,20대
+298.73,Male,Middle,Single,High School,Middle,Online,4,40대
+371.19,Male,Middle,Married,Bachelor's,High,Mixed,1,40대
+193.76,Female,Middle,Married,Master's,High,Mixed,12,30대
+424.27,Male,Middle,Divorced,Master's,High,Online,12,40대
+496.11,Male,High,Single,Bachelor's,High,Mixed,12,30대
+341.91,Male,High,Widowed,Bachelor's,Middle,Online,7,40대
+127.66,Male,High,Married,Master's,High,Online,7,40대
+342.99,Male,High,Widowed,Bachelor's,High,In-Store,6,30대
+308.54,Male,Middle,Divorced,Master's,High,Mixed,7,20대
+124.17,Male,High,Single,Master's,Middle,Mixed,6,40대
+78.0,Female,Middle,Married,Master's,Middle,Online,11,20대
+393.03,Female,High,Married,Bachelor's,Middle,Mixed,7,20대
+102.09,Female,High,Single,Master's,Middle,Mixed,1,30대
+426.21,Male,Middle,Married,Bachelor's,High,Mixed,2,30대
+140.31,Male,Middle,Widowed,Master's,High,Online,8,40대
+413.7,Female,High,Widowed,Master's,Middle,Mixed,6,10대 미만
+348.63,Male,High,Widowed,Master's,Middle,Online,6,40대
+91.27,Female,Middle,Widowed,High School,Middle,In-Store,13,20대
+359.94,Female,High,Divorced,Bachelor's,High,Mixed,9,20대
+138.2,Male,Middle,Divorced,High School,Middle,In-Store,12,20대
+249.24,Female,Middle,Widowed,Bachelor's,Middle,In-Store,7,30대
+129.1,Male,High,Divorced,High School,High,Mixed,7,40대
+112.69,Female,High,Married,Master's,High,In-Store,1,40대
+267.85,Male,Middle,Widowed,Bachelor's,High,Online,7,40대
+205.36,Male,Middle,Divorced,High School,Middle,Online,5,20대
+256.63,Male,High,Widowed,High School,Middle,In-Store,10,30대
+409.98,Female,High,Divorced,High School,Middle,Mixed,8,50대
+291.6,Male,Middle,Widowed,High School,High,In-Store,3,30대
+101.7,Female,Middle,Single,Bachelor's,Middle,Online,4,50대
+369.73,Female,Middle,Single,High School,Middle,Online,12,50대
+71.0,Male,Middle,Single,Bachelor's,High,Online,13,40대
+280.05,Male,Middle,Single,Master's,Middle,In-Store,11,40대
+54.71,Male,High,Widowed,Master's,Middle,Mixed,3,30대
+119.51,Male,High,Widowed,Bachelor's,Middle,Mixed,1,20대
+57.5,Female,High,Single,Master's,High,Online,13,30대
+225.05,Female,High,Married,Bachelor's,High,Mixed,10,30대
+441.15,Female,High,Divorced,High School,High,Online,8,40대
+481.21,Male,Middle,Divorced,High School,Middle,Mixed,11,40대
+102.96,Female,High,Married,Bachelor's,Middle,Mixed,4,40대
+331.57,Female,High,Divorced,Bachelor's,High,Mixed,14,40대
+143.52,Female,Middle,Single,Master's,High,In-Store,12,50대
+276.48,Male,Middle,Widowed,Bachelor's,Middle,Mixed,7,30대
+352.87,Male,High,Widowed,High School,High,In-Store,12,20대
+228.68,Male,Middle,Married,Master's,Middle,Mixed,4,40대
+301.39,Female,Middle,Divorced,Master's,High,Online,11,30대
+473.5,Female,Middle,Married,Bachelor's,High,Mixed,10,20대
+171.72,Male,Middle,Divorced,Bachelor's,High,Online,12,10대 미만
+467.5,Male,Middle,Widowed,High School,Middle,In-Store,6,30대
+150.33,Male,Middle,Single,High School,Middle,In-Store,6,20대
+98.63,Male,High,Married,Bachelor's,High,Online,6,20대
+193.3,Female,Middle,Divorced,Master's,Middle,Mixed,12,20대
+145.02,Female,Middle,Single,High School,Middle,In-Store,9,40대
+294.99,Female,Middle,Divorced,Master's,Middle,Online,5,30대
+432.42,Female,Middle,Widowed,High School,Middle,In-Store,13,50대
+227.58,Female,Middle,Single,Bachelor's,High,Mixed,6,30대
+160.89,Male,Middle,Single,High School,High,Online,13,30대
+139.1,Female,Middle,Married,Master's,High,Online,8,20대
+64.49,Female,Middle,Single,Master's,High,Online,7,40대
+80.17,Male,Middle,Widowed,High School,Middle,Online,6,40대
+277.52,Male,High,Married,Master's,High,In-Store,11,20대
+53.67,Male,High,Widowed,Master's,Middle,Online,11,40대
+323.39,Female,Middle,Widowed,Bachelor's,High,In-Store,11,40대
+98.02,Female,High,Single,Bachelor's,High,In-Store,10,50대
+231.26,Male,High,Divorced,Bachelor's,High,In-Store,10,20대
+382.49,Male,High,Single,Master's,Middle,In-Store,1,20대
+255.42,Male,Middle,Divorced,Master's,High,Mixed,11,20대
+423.23,Female,Middle,Single,High School,High,In-Store,6,40대
+276.08,Male,Middle,Single,High School,High,Mixed,10,40대
+333.56,Male,Middle,Widowed,Bachelor's,Middle,Mixed,14,20대
+129.82,Male,High,Divorced,Bachelor's,Middle,Mixed,8,30대
+278.78,Female,High,Widowed,High School,High,Mixed,2,40대
+112.55,Male,Middle,Married,Bachelor's,High,In-Store,2,30대
+142.02,Female,Middle,Divorced,Bachelor's,High,In-Store,3,50대
+481.84,Female,High,Widowed,High School,High,In-Store,9,30대
+56.85,Male,Middle,Divorced,High School,Middle,Online,14,20대
+373.01,Male,High,Widowed,High School,High,In-Store,8,30대
+220.77,Male,Middle,Single,Master's,Middle,Online,11,40대
+291.09,Male,Middle,Married,Master's,High,Online,1,20대
+408.51,Male,Middle,Widowed,Bachelor's,Middle,Online,1,30대
+103.4,Male,Middle,Married,High School,High,In-Store,9,20대
+67.92,Male,Middle,Single,High School,High,In-Store,10,40대
+276.77,Male,Middle,Widowed,Bachelor's,Middle,Mixed,4,30대
+190.25,Male,Middle,Single,High School,Middle,Mixed,13,40대
+203.49,Female,Middle,Married,Master's,Middle,In-Store,11,20대
+263.5,Male,Middle,Single,High School,High,Mixed,1,20대
+247.3,Female,High,Divorced,Bachelor's,Middle,In-Store,11,40대
+50.71,Male,High,Married,Bachelor's,Middle,Online,8,10대 미만
+131.85,Male,High,Married,High School,Middle,Mixed,6,40대
+459.39,Male,High,Married,Master's,High,Mixed,14,10대 미만
+383.33,Female,High,Divorced,High School,Middle,Online,12,30대
+212.08,Female,High,Widowed,Bachelor's,High,In-Store,13,20대
+370.73,Female,High,Married,Master's,High,Online,7,30대
+319.66,Male,High,Divorced,Master's,Middle,Mixed,3,30대
+373.05,Female,Middle,Widowed,Bachelor's,High,In-Store,7,40대
+393.78,Female,High,Married,Bachelor's,High,Online,14,10대 미만
+245.04,Female,High,Widowed,Master's,High,Online,10,20대
+111.27,Female,High,Divorced,Master's,Middle,Online,12,20대
+93.29,Female,High,Single,Bachelor's,Middle,Online,9,20대
+156.5,Female,High,Married,High School,Middle,Mixed,14,20대
+290.11,Male,Middle,Single,Master's,Middle,Mixed,14,30대
+355.28,Female,Middle,Single,Bachelor's,Middle,Mixed,5,20대
+170.35,Female,Middle,Widowed,Master's,Middle,In-Store,1,20대
+123.7,Female,High,Single,Master's,Middle,Online,2,30대
+201.6,Female,Middle,Single,Master's,High,In-Store,14,20대
+116.14,Female,Middle,Single,Master's,High,Mixed,14,20대
+483.38,Female,Middle,Single,Master's,High,Online,8,20대
+418.62,Male,Middle,Single,High School,Middle,In-Store,11,20대
+139.83,Female,Middle,Divorced,Bachelor's,Middle,Online,10,30대
+54.17,Female,High,Married,Master's,Middle,Mixed,7,30대
+437.59,Male,High,Divorced,Master's,High,In-Store,9,40대
+113.57,Male,Middle,Widowed,Bachelor's,High,Online,8,30대
+339.12,Female,High,Divorced,High School,High,In-Store,1,20대
+68.02,Female,Middle,Widowed,High School,Middle,Online,6,20대
+199.44,Male,High,Single,Master's,Middle,Online,1,20대
+250.73,Male,High,Divorced,High School,Middle,Online,10,40대
+372.49,Male,Middle,Single,High School,Middle,Online,7,30대
+186.85,Male,High,Widowed,High School,High,Online,12,40대
+73.32,Male,High,Widowed,Master's,Middle,In-Store,14,20대
+214.59,Male,Middle,Widowed,Bachelor's,Middle,Online,9,40대
+467.32,Female,Middle,Widowed,High School,Middle,In-Store,11,40대
+475.65,Male,Middle,Married,Master's,Middle,In-Store,14,10대 미만
+161.38,Female,Middle,Widowed,Master's,High,Mixed,10,40대
+249.78,Male,Middle,Single,Bachelor's,Middle,In-Store,11,10대 미만
+149.88,Female,Middle,Divorced,High School,High,Mixed,4,30대
+347.09,Female,High,Divorced,Master's,Middle,In-Store,7,40대
+345.49,Female,High,Widowed,Master's,High,Mixed,3,40대
+297.24,Female,High,Divorced,Bachelor's,High,Mixed,7,30대
+494.34,Female,Middle,Divorced,Bachelor's,High,Online,3,20대
+407.88,Male,Middle,Single,Master's,High,In-Store,14,30대
+448.68,Male,Middle,Widowed,Bachelor's,Middle,In-Store,8,30대
+255.96,Female,High,Widowed,Bachelor's,High,Online,13,40대
+146.07,Male,Middle,Married,High School,High,In-Store,1,40대
+311.9,Female,High,Single,High School,Middle,In-Store,2,40대
+301.6,Female,Middle,Widowed,High School,Middle,Mixed,13,30대
+239.46,Male,High,Widowed,Master's,Middle,Mixed,7,40대
+240.82,Female,High,Widowed,High School,High,Mixed,8,20대
+302.07,Female,Middle,Single,Master's,High,Mixed,13,40대
+367.99,Male,Middle,Widowed,Bachelor's,Middle,Online,8,40대
+359.75,Female,High,Married,Master's,Middle,In-Store,3,40대
+204.44,Female,Middle,Divorced,Bachelor's,High,Mixed,13,20대
+228.93,Male,High,Single,Master's,High,Online,11,20대
+355.31,Female,High,Single,High School,Middle,Online,12,20대
+334.67,Male,High,Married,High School,High,In-Store,13,40대
+182.72,Male,Middle,Widowed,Master's,Middle,Online,13,30대
+260.22,Male,High,Widowed,High School,Middle,In-Store,13,40대
+454.93,Female,High,Single,High School,Middle,Online,11,20대
+325.42,Male,Middle,Widowed,Bachelor's,High,In-Store,7,20대
+351.36,Female,Middle,Widowed,High School,High,In-Store,7,30대
+333.63,Male,High,Single,Bachelor's,Middle,Mixed,14,40대
+469.9,Female,High,Married,Bachelor's,Middle,Mixed,7,40대
+207.52,Male,High,Married,Bachelor's,High,In-Store,2,20대
+125.89,Male,High,Single,Bachelor's,High,In-Store,13,40대
+170.77,Female,High,Single,Master's,Middle,Online,4,40대
+63.91,Female,High,Divorced,Master's,High,Online,12,40대
+340.55,Male,High,Married,High School,Middle,In-Store,1,20대
+378.14,Male,Middle,Divorced,Bachelor's,High,Mixed,7,40대
+235.84,Female,Middle,Married,Bachelor's,Middle,Mixed,14,30대
+164.44,Male,High,Widowed,High School,Middle,In-Store,5,40대
+455.81,Male,High,Married,Bachelor's,High,Online,6,20대
+298.32,Male,High,Widowed,Master's,High,In-Store,12,30대
+351.71,Female,High,Single,Bachelor's,High,In-Store,8,30대
+393.48,Male,Middle,Divorced,Bachelor's,Middle,In-Store,3,40대
+280.2,Female,High,Single,Bachelor's,High,In-Store,13,20대
+178.04,Female,Middle,Single,Master's,Middle,Mixed,11,30대
+347.99,Male,High,Married,Master's,Middle,Mixed,6,30대
+343.81,Female,Middle,Single,Master's,High,In-Store,3,40대
+105.29,Female,Middle,Married,Master's,Middle,In-Store,4,40대
+483.66,Male,Middle,Single,High School,Middle,Online,9,30대
+69.41,Male,Middle,Married,Bachelor's,Middle,Mixed,5,40대
+454.15,Male,Middle,Divorced,High School,High,In-Store,13,30대
+113.01,Male,High,Widowed,High School,High,In-Store,4,20대
+419.13,Male,Middle,Divorced,Bachelor's,Middle,Mixed,6,40대
+183.86,Female,High,Single,Bachelor's,High,Mixed,3,30대
+427.82,Female,High,Widowed,Bachelor's,High,In-Store,14,40대
+282.82,Female,High,Divorced,Bachelor's,Middle,In-Store,3,20대
+215.31,Male,Middle,Divorced,Master's,Middle,Online,7,20대
+183.66,Male,Middle,Widowed,Master's,High,Online,6,40대
+198.73,Female,High,Divorced,High School,Middle,In-Store,4,40대
+265.72,Female,Middle,Married,High School,High,Mixed,13,20대
+138.35,Male,Middle,Married,Master's,High,Online,8,40대
+441.87,Male,Middle,Divorced,Bachelor's,Middle,Mixed,13,20대
+178.29,Female,Middle,Married,Master's,Middle,Mixed,8,40대
+77.08,Male,Middle,Widowed,High School,High,Mixed,1,20대
+266.9,Male,High,Married,High School,High,Mixed,13,40대
+269.84,Female,Middle,Divorced,Bachelor's,High,In-Store,2,30대
+334.22,Male,Middle,Married,Master's,High,Online,1,20대
+474.56,Female,Middle,Married,High School,High,In-Store,12,40대
+360.91,Male,High,Married,Master's,High,Mixed,4,30대
+373.49,Female,Middle,Widowed,Bachelor's,High,Online,1,40대
+462.3,Female,High,Married,Master's,Middle,Mixed,4,30대
+332.67,Female,Middle,Single,Master's,Middle,In-Store,4,40대
+235.39,Female,High,Divorced,Master's,Middle,Online,6,20대
+269.78,Female,Middle,Married,High School,Middle,In-Store,5,40대
+498.33,Male,Middle,Married,Bachelor's,Middle,Online,1,20대
+182.94,Female,High,Single,High School,High,Mixed,12,30대
+121.7,Female,Middle,Divorced,Master's,High,Mixed,8,10대 미만
+489.27,Female,High,Widowed,Master's,Middle,Mixed,3,40대
+303.93,Male,Middle,Married,Bachelor's,Middle,Mixed,2,30대
+302.74,Female,Middle,Married,Bachelor's,Middle,Mixed,5,20대
+159.45,Female,High,Widowed,High School,High,Online,14,40대
+312.93,Female,High,Widowed,High School,Middle,In-Store,3,40대
+65.68,Male,High,Married,Master's,Middle,In-Store,12,30대
+61.86,Male,Middle,Single,Master's,Middle,In-Store,9,40대
+343.77,Female,High,Single,Master's,Middle,Mixed,3,10대 미만
+107.21,Male,Middle,Divorced,Master's,High,Online,6,30대
+490.41,Female,High,Widowed,Master's,Middle,Mixed,3,20대
+461.34,Male,High,Married,High School,Middle,In-Store,7,30대
+338.89,Female,High,Single,Master's,High,In-Store,3,20대
+222.63,Male,High,Married,High School,High,Mixed,6,20대
+71.95,Male,High,Married,High School,High,Mixed,13,20대
+264.52,Male,High,Divorced,High School,Middle,Online,6,20대
+414.8,Male,High,Divorced,High School,High,Mixed,7,40대
+50.79,Male,Middle,Single,Bachelor's,High,Mixed,3,50대
+264.3,Female,Middle,Married,High School,Middle,In-Store,5,40대
+122.46,Male,High,Married,Bachelor's,Middle,Mixed,6,20대
+238.01,Male,Middle,Widowed,High School,Middle,In-Store,5,20대
+245.98,Male,High,Divorced,Bachelor's,Middle,Mixed,10,30대
+158.84,Male,High,Widowed,High School,Middle,Online,5,40대
+439.24,Male,Middle,Single,High School,Middle,Mixed,10,30대
+333.15,Female,High,Married,Master's,Middle,Mixed,14,40대
+64.22,Male,Middle,Divorced,Master's,Middle,Online,10,10대 미만
+290.53,Female,High,Single,High School,High,Online,10,40대
+251.8,Male,Middle,Divorced,Bachelor's,High,Mixed,11,30대
+461.71,Female,Middle,Married,High School,High,Mixed,11,20대
+288.34,Female,High,Married,High School,Middle,Mixed,6,50대
+194.08,Female,High,Divorced,Bachelor's,High,In-Store,13,10대 미만
+216.45,Male,High,Married,Master's,Middle,Mixed,3,20대
+358.72,Female,High,Widowed,Bachelor's,High,In-Store,12,10대 미만
+367.56,Female,Middle,Widowed,Bachelor's,High,Online,14,20대
+88.78,Male,Middle,Divorced,High School,High,Online,13,40대
+465.85,Male,Middle,Married,Bachelor's,Middle,Online,7,40대
+262.61,Male,Middle,Married,High School,High,In-Store,6,40대
+425.69,Female,High,Married,High School,High,In-Store,4,40대
+446.11,Female,High,Married,Bachelor's,High,Mixed,11,40대
+403.57,Female,High,Divorced,High School,Middle,Online,1,40대
+442.15,Female,High,Married,Bachelor's,Middle,Mixed,9,40대
+78.71,Female,Middle,Widowed,Bachelor's,High,Online,4,40대
+491.51,Female,Middle,Widowed,High School,High,Mixed,7,40대
+457.39,Female,Middle,Single,Bachelor's,Middle,In-Store,9,30대
+178.61,Female,High,Divorced,High School,High,Online,8,30대
+492.51,Male,Middle,Single,High School,Middle,Online,4,40대
+96.52,Male,Middle,Divorced,Master's,High,In-Store,11,30대
+65.45,Male,High,Married,High School,Middle,In-Store,3,30대
+255.86,Male,Middle,Single,High School,Middle,Online,4,20대
+74.69,Male,High,Divorced,Bachelor's,High,In-Store,3,30대
+430.75,Male,Middle,Widowed,Master's,Middle,Mixed,6,40대
+370.17,Male,High,Widowed,Master's,High,Mixed,1,30대
+384.26,Male,Middle,Divorced,Master's,High,Mixed,11,20대
+128.01,Male,Middle,Married,Master's,Middle,Mixed,10,20대
+301.4,Female,High,Married,High School,High,Online,5,40대
+397.25,Female,High,Single,High School,High,Mixed,2,10대 미만
+96.18,Male,Middle,Divorced,High School,Middle,Mixed,10,40대
+390.44,Female,High,Divorced,Bachelor's,High,Mixed,4,10대 미만
+61.5,Female,Middle,Single,Bachelor's,Middle,Mixed,8,30대
+234.44,Female,Middle,Divorced,High School,High,In-Store,5,30대
+318.84,Male,Middle,Single,Master's,Middle,Online,10,40대
+327.32,Male,Middle,Single,Master's,High,Mixed,13,20대
+475.64,Male,Middle,Divorced,Master's,High,Online,9,20대
+68.59,Male,High,Widowed,Master's,Middle,Mixed,5,40대
+473.96,Male,Middle,Divorced,Bachelor's,High,In-Store,14,30대
+472.52,Female,High,Married,High School,Middle,Online,14,20대
+335.8,Female,Middle,Married,Bachelor's,Middle,Mixed,5,20대
+85.57,Male,Middle,Single,High School,High,In-Store,9,20대
+172.5,Male,Middle,Divorced,Bachelor's,Middle,Online,7,20대
+212.8,Female,High,Single,High School,Middle,Mixed,1,10대 미만
+324.41,Female,Middle,Married,Bachelor's,High,Mixed,4,40대
+342.39,Male,High,Widowed,High School,Middle,In-Store,9,30대
+446.86,Female,High,Divorced,Bachelor's,High,In-Store,5,20대
+463.15,Male,High,Divorced,Master's,High,Mixed,9,40대
+122.99,Female,High,Divorced,Bachelor's,High,In-Store,1,20대
+322.4,Male,High,Widowed,Master's,High,Mixed,2,40대
+73.19,Female,High,Married,High School,Middle,Mixed,3,10대 미만
+279.08,Female,Middle,Married,Master's,High,Online,3,40대
+478.85,Female,Middle,Single,High School,Middle,In-Store,4,20대
+86.39,Male,High,Widowed,Master's,High,Mixed,7,20대
+192.35,Male,High,Widowed,Bachelor's,Middle,Mixed,11,40대
+235.32,Female,Middle,Divorced,Bachelor's,High,Online,11,30대
+212.63,Female,High,Widowed,High School,High,Online,6,20대
+246.63,Female,Middle,Widowed,Master's,High,In-Store,10,40대
+228.47,Female,Middle,Widowed,Bachelor's,High,Online,12,20대
+343.77,Female,Middle,Single,Master's,High,Online,6,20대
+327.05,Male,High,Divorced,Bachelor's,Middle,Mixed,7,30대
+334.45,Male,High,Divorced,Master's,Middle,In-Store,6,40대
+366.16,Male,High,Single,Bachelor's,Middle,Mixed,4,10대 미만
+481.78,Female,High,Widowed,Bachelor's,Middle,In-Store,1,30대
+131.48,Female,High,Widowed,Bachelor's,Middle,Mixed,12,20대
+402.86,Female,High,Widowed,Master's,High,In-Store,8,30대
+333.18,Male,High,Single,Bachelor's,Middle,In-Store,8,40대
+73.23,Female,High,Widowed,Master's,Middle,Online,6,20대
+450.47,Male,High,Divorced,Master's,Middle,Online,10,20대
+175.74,Male,Middle,Single,High School,High,Online,6,30대
+182.6,Female,Middle,Single,Master's,High,Online,5,30대
+497.8,Female,Middle,Widowed,Bachelor's,High,Online,9,20대
+171.17,Male,High,Divorced,High School,High,In-Store,12,30대
+425.82,Female,Middle,Single,Bachelor's,High,In-Store,11,20대
+210.58,Female,Middle,Widowed,Bachelor's,Middle,In-Store,8,10대 미만
+199.64,Male,Middle,Single,High School,Middle,Online,8,50대
+401.75,Male,High,Married,Bachelor's,High,Online,6,20대
+365.88,Female,Middle,Married,Master's,Middle,Online,7,20대
+58.29,Male,Middle,Single,High School,Middle,Mixed,14,40대
+66.86,Male,High,Married,Master's,High,Mixed,9,50대
+279.34,Female,High,Single,Bachelor's,Middle,Mixed,11,20대
+360.92,Female,High,Widowed,Bachelor's,High,Online,8,40대
+459.3,Male,High,Single,Master's,High,Online,1,40대
+426.89,Female,High,Divorced,Master's,Middle,Mixed,10,40대
+365.37,Male,Middle,Divorced,Master's,High,Mixed,7,20대
+487.25,Female,Middle,Divorced,Master's,High,Online,1,20대
+187.22,Female,Middle,Married,High School,High,Online,4,20대
+396.82,Male,High,Divorced,Master's,High,Mixed,9,40대
+128.74,Male,High,Widowed,Bachelor's,High,Mixed,1,20대
+339.63,Female,Middle,Widowed,Master's,Middle,In-Store,6,40대
+223.58,Female,High,Single,Bachelor's,High,Mixed,11,40대
+175.65,Male,Middle,Divorced,Bachelor's,Middle,Mixed,8,40대
+88.4,Male,Middle,Widowed,Bachelor's,Middle,In-Store,4,20대
+430.9,Male,Middle,Widowed,Master's,High,Online,11,20대
+435.23,Male,High,Widowed,High School,High,In-Store,13,50대
+218.65,Female,High,Divorced,Master's,Middle,Online,4,10대 미만
+207.66,Male,High,Widowed,High School,Middle,In-Store,8,20대
+141.09,Female,High,Married,High School,High,In-Store,1,30대
+142.7,Male,High,Divorced,Bachelor's,Middle,In-Store,11,30대
+64.09,Male,High,Divorced,Master's,High,Online,7,40대
+126.26,Female,Middle,Married,High School,Middle,Online,13,20대
+195.05,Female,Middle,Single,High School,High,In-Store,11,40대
+432.84,Female,Middle,Married,Master's,High,Mixed,4,20대
+404.12,Male,High,Married,Bachelor's,Middle,In-Store,11,30대
+438.26,Male,High,Divorced,Master's,High,In-Store,10,30대
+233.02,Female,High,Single,Bachelor's,High,Mixed,8,10대 미만
+273.41,Female,Middle,Widowed,Bachelor's,Middle,Online,2,20대
+338.96,Female,High,Married,High School,Middle,Online,4,20대
+75.91,Male,Middle,Divorced,Master's,High,Mixed,1,30대
+425.21,Male,High,Married,High School,High,Online,12,20대
+268.8,Male,Middle,Married,Master's,Middle,In-Store,12,40대
+170.71,Female,Middle,Divorced,Master's,High,Mixed,7,30대
+255.1,Male,Middle,Divorced,High School,Middle,Mixed,14,40대
+236.44,Male,High,Widowed,Bachelor's,High,Mixed,6,30대
+201.69,Male,Middle,Widowed,Bachelor's,High,Mixed,3,20대
+390.51,Female,High,Single,Bachelor's,Middle,Online,6,30대
+89.6,Female,Middle,Single,High School,High,In-Store,8,10대 미만
+166.74,Male,Middle,Widowed,High School,High,Mixed,1,20대
+299.28,Female,High,Married,Bachelor's,Middle,Mixed,3,20대
+404.57,Male,High,Widowed,Master's,High,Mixed,14,20대
+344.81,Male,High,Single,Bachelor's,High,In-Store,14,20대
+217.84,Male,High,Single,Master's,High,Online,11,30대
+445.34,Male,Middle,Divorced,Bachelor's,Middle,In-Store,3,20대
+151.73,Male,High,Widowed,High School,High,In-Store,11,10대 미만
+370.54,Male,Middle,Single,Master's,High,In-Store,7,30대
+152.87,Male,High,Married,Master's,High,In-Store,11,40대
+295.75,Male,Middle,Single,Master's,Middle,Mixed,8,20대
+358.11,Male,High,Widowed,High School,Middle,Mixed,11,30대
+63.6,Female,High,Widowed,Master's,High,Mixed,6,20대
+419.53,Male,High,Single,High School,Middle,Mixed,6,20대
+388.82,Female,Middle,Married,Master's,High,Mixed,6,10대 미만
+58.32,Female,Middle,Married,Bachelor's,High,In-Store,8,20대
+464.76,Female,High,Divorced,Master's,High,Mixed,3,20대
+116.92,Female,High,Divorced,Master's,High,Mixed,14,20대
+396.76,Female,High,Divorced,Bachelor's,Middle,Online,8,40대
+114.03,Female,High,Single,Master's,High,Mixed,6,20대
+109.97,Male,High,Single,Bachelor's,Middle,In-Store,1,40대
+310.23,Female,High,Widowed,Master's,High,In-Store,3,30대
+383.13,Male,Middle,Divorced,Master's,Middle,Mixed,7,20대
+434.86,Male,High,Single,High School,Middle,In-Store,11,20대
+489.1,Female,Middle,Married,Bachelor's,Middle,Mixed,13,30대
+105.87,Male,High,Divorced,Master's,Middle,Mixed,4,30대
+163.4,Male,Middle,Widowed,High School,High,In-Store,7,40대
+422.92,Male,High,Single,High School,High,Mixed,6,20대
+361.48,Male,Middle,Divorced,High School,High,Online,13,40대
+270.82,Male,Middle,Single,Master's,High,In-Store,13,20대
+372.26,Female,High,Widowed,High School,High,In-Store,6,40대
+208.59,Female,Middle,Widowed,Bachelor's,High,Mixed,1,20대
+163.22,Male,Middle,Widowed,High School,High,Online,8,30대
+364.98,Male,High,Married,High School,High,In-Store,8,40대
+449.72,Female,Middle,Married,Bachelor's,High,Mixed,3,10대 미만
+241.56,Male,Middle,Single,Bachelor's,High,Mixed,2,20대
+437.3,Male,Middle,Married,Master's,High,Mixed,1,20대
+277.29,Male,Middle,Married,Master's,High,Mixed,4,20대
+445.93,Male,High,Single,High School,Middle,Online,13,40대
+242.79,Female,Middle,Married,Bachelor's,Middle,Mixed,7,30대
+393.09,Male,High,Single,Bachelor's,High,Online,1,30대
+167.61,Male,Middle,Single,Master's,High,Online,13,30대
+324.22,Male,High,Divorced,High School,Middle,In-Store,14,40대
+159.3,Female,Middle,Divorced,Bachelor's,Middle,Mixed,2,20대
+287.18,Female,Middle,Divorced,Master's,High,In-Store,8,40대
+162.24,Male,High,Divorced,High School,Middle,In-Store,7,30대
+92.97,Female,High,Divorced,Bachelor's,High,In-Store,7,30대
+144.39,Male,Middle,Widowed,High School,Middle,In-Store,12,40대
+253.37,Female,High,Single,High School,High,In-Store,6,30대
+209.62,Male,Middle,Widowed,High School,High,Mixed,9,40대
+411.62,Male,High,Single,High School,Middle,Mixed,12,40대
+388.01,Female,High,Single,Bachelor's,High,Online,10,20대
+50.78,Male,Middle,Widowed,High School,High,Online,9,40대
+159.82,Male,High,Divorced,Bachelor's,Middle,In-Store,10,30대
+79.43,Male,Middle,Divorced,Master's,Middle,In-Store,6,40대
+131.36,Female,Middle,Married,Bachelor's,Middle,In-Store,3,40대
+299.75,Male,Middle,Widowed,High School,Middle,Mixed,7,20대
+319.38,Male,High,Divorced,Bachelor's,Middle,In-Store,8,20대
+476.48,Male,High,Single,Master's,Middle,Online,3,30대
+301.01,Male,Middle,Widowed,Bachelor's,Middle,Mixed,13,20대
+378.71,Male,Middle,Single,Bachelor's,Middle,Online,14,10대 미만
+210.9,Male,Middle,Married,High School,High,In-Store,12,20대
+218.26,Female,Middle,Divorced,High School,High,Mixed,12,10대 미만
+424.18,Female,Middle,Widowed,Master's,Middle,Mixed,5,20대
+430.75,Male,High,Divorced,High School,Middle,Online,6,20대
+162.95,Male,High,Single,Bachelor's,Middle,In-Store,14,20대
+209.68,Female,Middle,Married,Master's,High,Online,8,40대
+97.97,Male,High,Widowed,Bachelor's,Middle,In-Store,1,50대
+192.51,Male,Middle,Widowed,Master's,High,Mixed,9,40대
+151.81,Male,Middle,Widowed,Master's,Middle,Online,1,30대
+239.28,Female,High,Married,High School,Middle,Online,10,20대
+306.17,Female,High,Widowed,High School,High,In-Store,8,40대
+370.38,Female,High,Widowed,Master's,High,In-Store,9,40대
+346.58,Male,Middle,Single,Bachelor's,Middle,Mixed,7,50대
+292.64,Male,Middle,Single,High School,Middle,In-Store,1,20대
+102.91,Female,Middle,Married,Bachelor's,High,Mixed,13,30대
+283.78,Female,High,Widowed,Bachelor's,Middle,Mixed,10,30대
+51.44,Female,High,Widowed,High School,Middle,In-Store,5,40대
+405.7,Female,High,Married,Bachelor's,High,Online,14,40대
+311.74,Female,High,Widowed,Master's,Middle,Mixed,11,10대 미만
+293.43,Male,Middle,Widowed,Bachelor's,High,In-Store,7,30대
+418.51,Female,High,Single,Bachelor's,Middle,Online,3,30대
+85.03,Male,Middle,Single,Master's,Middle,In-Store,8,30대
+164.94,Male,Middle,Married,Master's,High,In-Store,6,30대
+89.32,Female,High,Widowed,Bachelor's,Middle,Online,12,30대
+388.26,Male,Middle,Married,High School,High,Mixed,5,30대
+106.69,Male,Middle,Divorced,Master's,Middle,Online,14,30대
+61.71,Male,Middle,Divorced,High School,High,Mixed,12,40대
+411.81,Male,High,Single,Bachelor's,Middle,Mixed,1,40대
+114.93,Female,Middle,Married,Master's,High,In-Store,4,40대
+438.42,Female,High,Divorced,Master's,Middle,Online,4,30대
+189.97,Male,Middle,Widowed,Master's,Middle,In-Store,8,30대
+227.03,Male,High,Divorced,Master's,Middle,Online,2,30대
+278.49,Male,High,Divorced,Bachelor's,Middle,Mixed,8,20대
+120.56,Female,High,Widowed,Bachelor's,High,Online,7,40대
+320.94,Male,High,Divorced,Bachelor's,Middle,Online,10,20대
+217.72,Female,High,Divorced,Master's,Middle,In-Store,14,30대
+222.61,Male,High,Widowed,Bachelor's,Middle,Online,3,20대
+102.73,Female,Middle,Divorced,High School,Middle,Mixed,14,40대
+426.87,Female,Middle,Married,Bachelor's,High,In-Store,3,40대
+473.28,Female,Middle,Widowed,High School,Middle,Online,13,20대
+446.03,Male,High,Widowed,Bachelor's,High,In-Store,12,30대
+287.95,Female,High,Single,Bachelor's,High,Mixed,11,10대 미만
+132.52,Female,Middle,Widowed,Master's,High,Mixed,12,30대
+379.2,Female,Middle,Married,Bachelor's,Middle,Online,7,30대
+138.44,Female,High,Divorced,Bachelor's,Middle,Mixed,1,40대
+145.98,Female,High,Divorced,Master's,High,In-Store,1,20대
+405.66,Male,Middle,Married,High School,High,Online,11,20대
+419.98,Female,High,Single,High School,Middle,In-Store,14,20대
+260.14,Female,Middle,Divorced,Master's,High,Online,7,50대
+368.91,Female,Middle,Widowed,Bachelor's,High,In-Store,7,30대
+100.32,Male,Middle,Widowed,Master's,Middle,In-Store,8,30대
+107.82,Male,High,Married,Master's,Middle,Mixed,2,30대
+83.88,Male,Middle,Married,High School,Middle,Online,4,50대
+81.25,Female,Middle,Widowed,Bachelor's,Middle,Online,10,20대
+125.8,Male,Middle,Widowed,Master's,High,In-Store,1,40대
+197.9,Female,Middle,Single,Bachelor's,Middle,Mixed,5,10대 미만
+299.09,Male,High,Divorced,High School,Middle,In-Store,14,40대
+79.3,Male,High,Married,High School,Middle,Online,2,40대
+55.73,Male,High,Divorced,High School,High,In-Store,3,30대
+256.44,Male,High,Single,Bachelor's,High,In-Store,3,40대
+337.21,Female,High,Married,Bachelor's,High,Online,11,20대
+494.97,Female,High,Single,Master's,Middle,In-Store,7,30대
+238.58,Female,Middle,Widowed,High School,High,Online,8,30대
+131.9,Female,High,Single,Bachelor's,High,Mixed,4,20대
+403.03,Female,Middle,Married,Bachelor's,High,Mixed,2,40대
+338.6,Female,High,Widowed,Bachelor's,High,In-Store,9,20대
+365.38,Male,Middle,Widowed,High School,High,Online,14,30대
+433.99,Male,Middle,Married,High School,High,Mixed,8,20대
+495.95,Female,Middle,Widowed,High School,Middle,In-Store,6,30대
+356.22,Male,High,Married,High School,Middle,In-Store,6,40대
+454.36,Male,Middle,Single,Master's,Middle,In-Store,12,40대
+486.07,Male,High,Single,Bachelor's,High,Mixed,12,50대
+427.86,Female,High,Divorced,High School,Middle,Mixed,8,30대
+235.13,Female,High,Divorced,Master's,High,Online,6,40대
+361.27,Female,Middle,Divorced,Bachelor's,Middle,Online,2,40대
+195.83,Female,Middle,Single,Bachelor's,Middle,Mixed,13,30대
+340.31,Male,High,Married,Master's,High,Online,14,20대
+489.67,Male,High,Divorced,Master's,High,Mixed,11,40대
+482.5,Male,High,Divorced,Master's,Middle,Mixed,13,20대
+433.14,Female,Middle,Married,Master's,Middle,In-Store,5,30대
+375.7,Female,Middle,Widowed,High School,High,Online,10,40대
+381.3,Male,Middle,Single,Master's,Middle,Online,7,20대
+210.21,Male,High,Widowed,High School,High,Mixed,14,30대
+408.81,Male,Middle,Widowed,Master's,High,Mixed,12,20대
+118.65,Female,Middle,Divorced,Bachelor's,High,Mixed,13,20대
+166.45,Male,High,Divorced,Bachelor's,Middle,Mixed,12,50대
+385.32,Female,Middle,Divorced,Master's,High,Online,9,20대
+161.41,Male,Middle,Widowed,High School,Middle,Mixed,3,30대
+130.92,Male,Middle,Single,Master's,Middle,Online,9,30대
+468.6,Female,Middle,Divorced,Bachelor's,High,Mixed,2,40대
+237.57,Male,High,Divorced,Bachelor's,Middle,Online,11,40대
+395.18,Female,Middle,Divorced,High School,High,In-Store,6,50대
+81.23,Female,High,Single,Bachelor's,High,Mixed,6,20대
+257.43,Male,Middle,Single,High School,Middle,Online,13,20대
+305.73,Male,High,Divorced,High School,High,Mixed,14,40대
+249.82,Male,High,Single,Bachelor's,High,In-Store,10,30대
+332.79,Male,Middle,Divorced,Bachelor's,High,Online,4,30대
+78.9,Male,High,Single,Bachelor's,Middle,In-Store,10,30대
+122.55,Male,High,Widowed,High School,High,Mixed,4,20대
+152.33,Female,High,Divorced,Bachelor's,Middle,In-Store,8,40대
+465.07,Female,Middle,Divorced,Bachelor's,High,Online,8,20대
+498.23,Female,High,Single,Master's,Middle,Online,9,30대
+491.18,Female,Middle,Widowed,High School,Middle,Mixed,14,40대
+149.42,Male,Middle,Divorced,Bachelor's,Middle,Mixed,5,10대 미만
+82.13,Male,Middle,Single,Master's,Middle,Online,6,20대
+425.18,Male,Middle,Divorced,Bachelor's,High,Mixed,10,40대
+176.12,Male,High,Married,Master's,Middle,Online,14,30대
+70.3,Female,High,Single,High School,Middle,Online,3,40대
+319.39,Male,Middle,Married,Bachelor's,Middle,Mixed,3,40대
+113.51,Female,High,Widowed,High School,High,Mixed,8,30대
+492.74,Female,High,Single,Bachelor's,Middle,Mixed,13,40대
+143.8,Male,Middle,Divorced,Master's,Middle,In-Store,11,30대
+213.39,Female,High,Married,Bachelor's,High,Online,4,30대
+127.18,Male,Middle,Divorced,Bachelor's,High,In-Store,4,30대
+476.63,Male,Middle,Divorced,Master's,High,In-Store,1,20대
+56.02,Female,High,Single,Bachelor's,Middle,Online,12,30대
+398.97,Female,High,Widowed,Bachelor's,Middle,Online,9,30대
+53.45,Female,Middle,Divorced,High School,Middle,Mixed,11,20대
+471.31,Female,Middle,Married,High School,Middle,Mixed,7,50대
+179.19,Female,High,Divorced,High School,High,In-Store,12,40대
+294.61,Female,High,Divorced,High School,Middle,In-Store,4,40대
+83.5,Male,Middle,Widowed,Master's,High,In-Store,10,20대
+109.88,Male,High,Married,High School,Middle,Online,11,30대
+182.54,Female,High,Married,High School,High,Mixed,13,20대
+465.48,Female,High,Widowed,Bachelor's,High,Mixed,1,20대
+224.52,Female,Middle,Married,High School,Middle,Mixed,1,30대
+281.37,Male,High,Widowed,Master's,Middle,Online,14,20대
+125.68,Female,Middle,Married,Bachelor's,Middle,Online,9,20대
+178.21,Female,High,Single,High School,High,In-Store,9,30대
+483.23,Male,High,Divorced,Bachelor's,Middle,Online,9,20대
+415.3,Male,Middle,Married,Master's,High,In-Store,2,10대 미만
+85.52,Male,High,Married,Master's,Middle,Mixed,7,30대
+422.31,Female,Middle,Widowed,High School,High,In-Store,3,40대
+437.4,Female,Middle,Widowed,Master's,Middle,Mixed,1,20대
+207.11,Male,Middle,Divorced,Bachelor's,Middle,Mixed,2,30대
+378.87,Female,High,Widowed,Bachelor's,Middle,Online,9,50대
+349.0,Female,High,Divorced,High School,High,Mixed,10,30대
+330.27,Male,Middle,Married,Bachelor's,Middle,In-Store,9,30대
+410.29,Male,Middle,Married,Master's,Middle,Online,1,40대
+400.86,Female,High,Divorced,Master's,Middle,Online,5,20대
+225.12,Female,High,Married,Master's,Middle,In-Store,6,20대
+273.48,Female,High,Widowed,Master's,High,Online,5,30대
+302.6,Female,High,Single,Bachelor's,Middle,Online,2,20대
+317.09,Male,High,Divorced,High School,High,Online,4,30대
+193.32,Female,High,Married,High School,High,Mixed,6,30대
+282.24,Male,High,Widowed,High School,High,Online,1,30대
+154.19,Female,High,Divorced,Master's,Middle,Online,1,20대
+84.15,Female,Middle,Widowed,Bachelor's,Middle,In-Store,1,40대
+214.69,Male,Middle,Divorced,High School,High,In-Store,9,40대
+61.21,Male,High,Married,Bachelor's,High,Mixed,13,30대
+462.48,Female,Middle,Single,High School,High,Online,12,30대
+449.18,Male,Middle,Married,Bachelor's,High,Mixed,10,30대
+314.36,Female,Middle,Married,Master's,Middle,In-Store,1,20대
+367.7,Female,Middle,Married,Bachelor's,Middle,Mixed,3,40대
+229.97,Female,High,Single,High School,Middle,Mixed,6,40대
+226.53,Female,Middle,Widowed,Bachelor's,Middle,Online,13,20대
+218.32,Male,High,Divorced,Master's,Middle,Mixed,3,20대
+132.67,Female,High,Widowed,High School,High,In-Store,1,40대
+416.96,Male,High,Single,Master's,High,In-Store,7,20대
+459.51,Female,High,Married,Master's,Middle,In-Store,11,30대
+487.96,Male,Middle,Married,High School,High,Mixed,12,40대
+150.11,Male,Middle,Divorced,High School,High,Mixed,8,20대
+218.87,Male,High,Married,High School,Middle,Mixed,11,30대
+437.06,Female,Middle,Married,Bachelor's,High,In-Store,11,20대
+122.58,Male,High,Married,Bachelor's,High,In-Store,12,30대
+195.07,Male,High,Married,Master's,Middle,Online,10,30대
+190.06,Female,Middle,Single,High School,High,In-Store,12,30대
+485.76,Female,Middle,Single,High School,Middle,In-Store,4,30대
+242.57,Female,High,Single,Bachelor's,High,In-Store,1,20대
+303.13,Male,Middle,Widowed,High School,High,Online,10,30대
+136.1,Female,Middle,Widowed,Master's,Middle,In-Store,14,40대
+466.74,Male,Middle,Divorced,High School,Middle,In-Store,5,10대 미만
+450.52,Female,High,Single,High School,High,Online,8,30대
+246.44,Male,High,Divorced,Bachelor's,Middle,Mixed,5,30대
+93.52,Male,High,Widowed,High School,Middle,Online,12,30대
+137.75,Female,Middle,Married,High School,High,Online,4,20대
+78.64,Female,Middle,Married,Master's,Middle,Mixed,12,40대
+214.82,Male,High,Divorced,Master's,Middle,Mixed,11,20대
+57.39,Male,Middle,Married,Bachelor's,High,Mixed,3,40대
+363.91,Female,High,Single,High School,Middle,Online,9,40대
+304.79,Male,Middle,Single,High School,Middle,In-Store,10,30대
+363.98,Male,High,Divorced,High School,Middle,Online,1,30대
+249.6,Male,Middle,Widowed,Bachelor's,High,Mixed,11,40대
+345.04,Male,High,Married,Bachelor's,Middle,In-Store,13,10대 미만
+59.15,Female,Middle,Single,High School,High,In-Store,8,40대
+461.81,Male,High,Single,Master's,High,Mixed,8,20대
+280.88,Female,High,Divorced,Bachelor's,High,Mixed,2,30대
+283.7,Male,Middle,Married,Master's,Middle,Mixed,8,40대
+411.95,Female,High,Widowed,High School,Middle,In-Store,5,20대
+476.11,Female,Middle,Widowed,Master's,Middle,In-Store,1,30대
+399.24,Female,Middle,Married,Master's,High,In-Store,10,20대
+90.79,Male,Middle,Divorced,Master's,Middle,In-Store,6,20대
+229.56,Female,Middle,Married,Master's,Middle,Online,11,30대
+160.47,Female,Middle,Divorced,High School,Middle,Mixed,6,20대
+399.95,Female,High,Widowed,Master's,Middle,In-Store,10,30대
+337.33,Female,High,Divorced,Bachelor's,Middle,In-Store,10,40대
+204.83,Female,High,Widowed,Master's,Middle,In-Store,5,40대
+193.94,Female,Middle,Widowed,Master's,High,Mixed,9,20대
+460.37,Male,High,Married,Master's,Middle,Online,12,40대
+389.47,Male,Middle,Single,Bachelor's,Middle,In-Store,6,30대
+370.05,Male,High,Single,Master's,High,Mixed,10,30대
+462.24,Male,High,Single,Master's,Middle,Mixed,13,40대
+472.53,Female,High,Married,High School,High,Online,4,30대
+407.29,Female,Middle,Married,High School,Middle,In-Store,3,40대
+135.65,Male,High,Married,Bachelor's,High,Online,14,10대 미만
+352.35,Male,High,Single,Bachelor's,Middle,Online,14,30대
+441.73,Female,High,Single,High School,High,Online,8,20대
+105.95,Female,High,Divorced,High School,Middle,Mixed,11,20대
+351.54,Male,High,Single,Master's,High,Mixed,12,20대
+321.26,Male,High,Divorced,Bachelor's,High,Online,14,40대
+421.5,Female,High,Divorced,High School,Middle,Online,3,40대
+217.62,Female,Middle,Divorced,High School,High,Online,5,20대
+226.04,Male,Middle,Single,Bachelor's,High,Online,12,20대
+385.08,Male,Middle,Widowed,High School,High,In-Store,1,40대
+181.1,Male,High,Widowed,Master's,Middle,Online,5,30대
+246.41,Female,Middle,Single,Master's,Middle,In-Store,11,20대
+140.87,Female,Middle,Divorced,Bachelor's,High,In-Store,9,30대
+151.25,Female,High,Single,Master's,High,In-Store,10,30대
+171.52,Male,High,Divorced,Master's,Middle,Mixed,12,20대
+399.56,Male,Middle,Widowed,Master's,High,Online,1,40대
+173.46,Female,Middle,Widowed,Master's,Middle,Mixed,2,40대
+332.14,Male,High,Widowed,Bachelor's,High,Online,13,40대
+365.88,Male,High,Single,Bachelor's,High,Mixed,9,40대
+354.92,Female,Middle,Married,Bachelor's,Middle,Mixed,13,20대
+195.46,Female,High,Single,High School,High,Mixed,9,10대 미만
+474.03,Female,High,Married,Master's,Middle,In-Store,13,40대
+106.96,Male,Middle,Married,Bachelor's,High,In-Store,3,20대
+371.84,Female,Middle,Married,Master's,High,In-Store,2,20대
+497.75,Female,High,Single,High School,Middle,In-Store,13,20대
+492.83,Female,Middle,Married,Master's,Middle,Online,2,40대
+295.54,Female,Middle,Divorced,High School,Middle,Online,14,30대
+494.81,Male,High,Widowed,High School,High,Mixed,6,40대
+160.25,Female,High,Single,Master's,Middle,Online,12,20대
+198.36,Female,Middle,Married,Master's,High,Online,4,40대
+82.39,Female,Middle,Divorced,Bachelor's,High,In-Store,1,40대
+290.56,Female,Middle,Married,Master's,High,In-Store,4,40대
+206.79,Male,High,Divorced,Master's,High,In-Store,4,20대
+401.43,Female,Middle,Married,High School,High,Mixed,5,10대 미만
+188.17,Male,High,Widowed,Master's,High,Online,9,20대
+83.21,Female,High,Single,High School,High,Online,7,30대
+371.12,Female,High,Divorced,Master's,High,Online,8,40대
+185.83,Male,High,Married,High School,High,In-Store,1,20대
+117.13,Male,High,Divorced,Master's,Middle,Mixed,6,20대
+52.24,Female,Middle,Married,Master's,High,In-Store,8,40대
+446.69,Female,High,Married,Bachelor's,High,In-Store,13,20대
+216.84,Male,Middle,Married,High School,Middle,In-Store,5,20대
+75.27,Female,High,Divorced,High School,High,Mixed,1,40대
+308.87,Male,Middle,Widowed,Master's,High,In-Store,11,20대
+169.77,Male,High,Divorced,Master's,Middle,In-Store,7,40대
+289.08,Male,High,Divorced,High School,High,Online,7,10대 미만
+74.09,Female,Middle,Single,High School,High,Mixed,8,30대
+201.53,Male,High,Married,High School,Middle,Online,11,40대
+244.6,Male,Middle,Divorced,Bachelor's,High,Online,3,30대
+320.5,Male,Middle,Widowed,Bachelor's,High,In-Store,9,20대
+91.63,Male,Middle,Widowed,Master's,Middle,In-Store,2,20대
+251.93,Male,Middle,Married,Master's,High,In-Store,7,30대
+477.35,Male,Middle,Married,Bachelor's,Middle,Online,14,30대
+86.63,Male,High,Widowed,Master's,Middle,Mixed,3,30대
+429.24,Female,High,Widowed,High School,High,Mixed,10,30대
+470.38,Female,High,Married,High School,High,Mixed,9,20대
+495.8,Female,Middle,Single,Master's,High,Mixed,10,30대
+129.64,Female,High,Widowed,Bachelor's,Middle,In-Store,3,20대
+473.77,Male,Middle,Single,Master's,High,Online,13,40대
+130.84,Female,High,Married,High School,Middle,Online,13,40대
+436.54,Male,Middle,Single,Master's,High,Online,9,40대
+264.01,Female,Middle,Widowed,Bachelor's,Middle,In-Store,2,20대
+58.27,Female,High,Divorced,Bachelor's,High,In-Store,13,30대
+190.76,Male,Middle,Single,Master's,High,In-Store,11,20대
+105.76,Female,High,Widowed,Master's,High,Online,4,40대
+254.29,Female,Middle,Single,Master's,High,Mixed,3,20대
+435.52,Male,Middle,Divorced,Bachelor's,High,Online,11,40대
+235.49,Female,High,Married,Master's,Middle,In-Store,5,50대
+161.34,Male,High,Widowed,Master's,Middle,Mixed,4,40대
+167.67,Male,High,Single,Master's,High,In-Store,5,10대 미만
+96.68,Female,Middle,Widowed,High School,High,Mixed,10,50대
+234.58,Male,High,Married,Master's,High,Mixed,1,30대
+156.48,Male,Middle,Married,Master's,Middle,In-Store,4,20대
+204.47,Male,Middle,Widowed,Master's,High,Online,3,30대
+315.03,Female,Middle,Widowed,Bachelor's,Middle,Online,2,30대
+330.36,Male,Middle,Single,Master's,High,In-Store,3,40대
+456.83,Male,Middle,Single,Bachelor's,Middle,Online,13,40대
+236.05,Male,High,Widowed,Bachelor's,High,In-Store,13,30대
+289.28,Female,High,Widowed,High School,High,Online,13,30대
+483.77,Female,High,Married,High School,Middle,In-Store,10,20대
+64.5,Male,Middle,Married,High School,Middle,In-Store,13,40대
+436.57,Male,High,Married,Bachelor's,Middle,Mixed,3,40대
+221.88,Female,Middle,Widowed,Master's,High,In-Store,9,30대
+278.21,Female,Middle,Single,High School,Middle,Mixed,14,30대
+344.43,Female,High,Married,Master's,High,Online,5,30대
+326.08,Male,High,Single,Master's,High,In-Store,8,20대
+437.97,Male,High,Married,Bachelor's,Middle,Online,12,40대
+391.87,Male,High,Single,Master's,High,Online,6,20대
+333.41,Male,High,Single,Master's,Middle,Online,3,40대
+251.54,Male,Middle,Single,Bachelor's,High,Online,1,30대
+292.08,Female,Middle,Single,High School,Middle,In-Store,11,30대
+258.68,Male,Middle,Single,High School,Middle,Online,9,40대
+258.02,Male,Middle,Married,Bachelor's,High,In-Store,13,20대
+181.87,Female,High,Single,Master's,Middle,Mixed,11,20대
+81.18,Male,High,Divorced,High School,Middle,Online,3,20대
+382.94,Female,High,Divorced,Master's,High,In-Store,3,20대
+402.82,Female,High,Single,Bachelor's,High,Online,13,40대
+497.76,Male,High,Single,Bachelor's,Middle,In-Store,4,30대
+227.58,Female,High,Single,High School,High,Online,11,20대
+263.57,Female,High,Divorced,Bachelor's,High,Mixed,8,30대
+422.09,Male,High,Married,High School,High,In-Store,7,40대
+411.83,Male,Middle,Married,Master's,High,In-Store,10,30대
+242.65,Male,Middle,Single,Master's,Middle,Mixed,9,20대
+298.93,Male,Middle,Widowed,Master's,Middle,Mixed,2,40대
+191.21,Female,High,Single,Bachelor's,High,Mixed,13,40대
+136.67,Female,High,Married,Master's,Middle,Online,1,40대
+324.11,Male,Middle,Widowed,Master's,High,Online,7,30대
+105.64,Female,High,Widowed,Bachelor's,High,Online,12,40대
+295.6,Male,High,Widowed,Master's,High,Online,5,40대
+227.03,Male,Middle,Single,Master's,High,In-Store,4,40대
+485.77,Female,High,Divorced,Bachelor's,Middle,Mixed,6,30대
+173.43,Female,Middle,Widowed,High School,High,In-Store,14,30대
+462.96,Female,Middle,Widowed,High School,Middle,Online,3,20대
+203.13,Male,High,Divorced,High School,Middle,Online,6,30대
+443.11,Female,High,Married,Master's,High,In-Store,1,50대
+336.89,Female,High,Single,Master's,Middle,Online,9,20대
+337.17,Male,Middle,Married,Bachelor's,Middle,In-Store,3,20대
+429.24,Female,High,Single,High School,High,Online,13,20대
+197.7,Female,High,Married,High School,High,Mixed,9,30대
+336.96,Male,Middle,Married,Bachelor's,Middle,In-Store,7,20대
+489.81,Female,High,Married,High School,High,Mixed,3,40대
+455.55,Female,High,Single,High School,Middle,Mixed,10,30대
+266.61,Male,Middle,Divorced,Master's,Middle,Online,7,20대
+361.4,Male,High,Single,High School,Middle,In-Store,7,40대
+51.86,Female,Middle,Divorced,Master's,Middle,Mixed,6,40대
+310.16,Male,Middle,Married,High School,Middle,Mixed,14,20대
+300.73,Female,Middle,Widowed,Master's,Middle,Online,10,40대
+356.87,Female,High,Married,High School,Middle,Mixed,10,20대
+82.37,Male,Middle,Widowed,High School,Middle,Mixed,2,20대
+372.6,Female,High,Divorced,Bachelor's,High,Mixed,10,20대
+78.32,Female,Middle,Widowed,High School,High,Online,7,20대
+71.72,Female,High,Single,Master's,High,Online,13,30대
+241.1,Female,High,Single,High School,High,In-Store,8,30대
+96.86,Male,Middle,Married,Bachelor's,High,Mixed,7,20대
+276.25,Male,Middle,Divorced,Master's,High,In-Store,8,40대
+318.45,Male,Middle,Widowed,Master's,Middle,In-Store,5,20대
+117.03,Female,High,Married,High School,High,Online,5,40대
+490.41,Female,Middle,Married,Master's,High,Online,5,50대
+476.42,Male,Middle,Divorced,Bachelor's,High,In-Store,2,40대
+392.27,Female,High,Divorced,Master's,High,Mixed,7,20대
+207.24,Male,High,Single,Bachelor's,Middle,Online,3,30대
+141.63,Male,High,Divorced,High School,Middle,Online,11,40대
+244.47,Male,High,Widowed,Bachelor's,High,Online,4,30대
+251.63,Male,High,Married,Master's,High,Online,10,20대
+431.78,Male,Middle,Divorced,Bachelor's,Middle,Online,7,30대
+303.09,Female,Middle,Married,Master's,High,Online,11,30대
+341.24,Male,High,Married,Bachelor's,High,Mixed,4,40대
+211.39,Female,Middle,Divorced,Master's,High,Online,1,30대
+379.21,Female,Middle,Married,Bachelor's,Middle,Mixed,1,30대
+309.53,Female,High,Widowed,Master's,High,Mixed,5,40대
+359.45,Male,Middle,Divorced,Master's,High,Online,11,40대
+479.62,Female,High,Widowed,High School,Middle,In-Store,10,20대
+208.6,Male,High,Married,Bachelor's,Middle,Mixed,3,30대
+180.21,Female,Middle,Single,Master's,High,Mixed,14,50대
+197.9,Male,Middle,Single,High School,High,Mixed,14,20대
+362.3,Male,Middle,Single,Bachelor's,High,Online,6,40대
+159.53,Female,High,Divorced,Bachelor's,High,Mixed,7,20대
+149.52,Female,High,Widowed,High School,High,In-Store,8,40대
+206.32,Female,High,Widowed,Bachelor's,High,Online,12,10대 미만
+91.34,Female,High,Single,High School,Middle,Online,6,20대
+455.44,Female,High,Divorced,High School,Middle,Mixed,3,20대
+468.16,Female,High,Divorced,Master's,Middle,Online,2,30대
+463.67,Female,High,Divorced,Bachelor's,High,Online,5,40대
+69.78,Female,High,Single,High School,Middle,Mixed,9,50대
+453.37,Male,High,Married,Bachelor's,High,Mixed,9,20대
+106.15,Female,High,Widowed,Bachelor's,Middle,In-Store,8,20대
+378.47,Female,Middle,Single,High School,High,Online,2,20대
