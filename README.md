@@ -66,6 +66,8 @@
 | Purchase_Channel      | object    | 구매 채널 (예: 온라인, 오프라인)|
 | Time_to_Decision      | int64        | 소비자가 구매 결정을 내리기까지의 시간 (분)|
 
+![image](https://github.com/user-attachments/assets/34e0bfaf-aa8f-4c84-8014-4bd722379af8)
+
 
 ![image](https://github.com/user-attachments/assets/ce36dcc0-60d3-4293-a304-f8181060092e)
 
